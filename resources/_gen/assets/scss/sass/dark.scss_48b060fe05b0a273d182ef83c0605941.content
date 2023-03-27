@@ -1,0 +1,1 @@
+:root{--page-bg:#000;--text:#FFF;--link:var(--text);--link-background:var(--background-color);--link-hover:var(--background-color);--link-hover-background:var(--text);--separator:#AAA}

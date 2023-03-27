@@ -1,0 +1,8 @@
+baseURL = 'https://suzunaan.org/'
+languageCode = 'en-us'
+title = '鈴奈庵'
+theme = 'hugo-suzu'
+themesDir = '../'
+
+[params]
+    logo = '/logo.svg'

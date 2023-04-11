@@ -1,0 +1,3 @@
+[submodule "themes/hugo-suzu"]
+	path = themes/hugo-suzu
+	url = git@github.com:BellHermitage/hugo-suzu

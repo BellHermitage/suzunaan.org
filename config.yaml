@@ -1,0 +1,29 @@
+---
+baseURL: 'https://suzunaan.org/'
+defaultContentLanguage: 'en'
+languageCode: 'en-us'
+title: '鈴奈庵'
+theme: 'hugo-suzu'
+
+markup:
+  tableOfContents:
+    endLevel: 3
+    ordered: true
+    startLevel: 1
+
+languages:
+  en:
+    languageName: 'English'
+    weight: 2
+  it:
+    languageName: 'Italiano'
+    weight: 1
+
+params:
+  logo: '/logo.svg'
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true

@@ -4,6 +4,7 @@ defaultContentLanguage: 'en'
 languageCode: 'en-us'
 title: '鈴奈庵'
 theme: 'hugo-suzu'
+sectionPagesMenu: 'main'
 
 markup:
   tableOfContents:
@@ -14,10 +15,10 @@ markup:
 languages:
   en:
     languageName: 'English'
-    weight: 2
+    weight: 1
   it:
     languageName: 'Italiano'
-    weight: 1
+    weight: 2
 
 params:
   logo: '/logo.svg'

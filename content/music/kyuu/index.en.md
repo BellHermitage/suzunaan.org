@@ -1,6 +1,6 @@
 ---
-title: "An analysis of 彁"
-date: 2022-04-09
+title: "彁 is genius and here's why"
+date: 2023-04-09
 ---
 
 During the New Year's Eve of 2019, an indie Japanese music group ("circle") known as 凋叶棕 (_diao ye zong_, "withered leaf") released an album simply titled "彁" at the 97th edition of Comic Market, and it kind of explored how we think about stories and creativity.
@@ -40,4 +40,33 @@ After looking at the title, the very next thing you come across is the cover art
 
 ![Cover art](https://en.touhouwiki.net/images/6/6f/RDWL-0030.jpg)
 
-In the image there is depicted [Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) sleeping while holding an yin-yang orb, with a stylized version of Gensokyo in the background and the title superimposed on everything.
+In the image there is depicted [Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) sleeping while holding an yin-yang orb, with a stylized version of Gensokyo in the background with the title in red superimposed on everything else.
+The cover art has mostly red highlights with white-ish parts, which is a play on Reimu's color palette (the "red and white miko").
+Such image carries a lot of symbolism, as we shall see later on, so keep it in mind.
+
+# The songs
+
+Finally, let's go over the songs. Most of them have vocals, but some do not.
+
+## ALL EVIL MISCHIEF
+
+## ホーカス・ポーカス
+
+## Marks of Sin
+
+## trill_Moonshine
+
+## 幻想少女物語
+
+
+## Dolls into Pitiful Pretenders
+
+## little_Metamorphoses
+
+## 幻想星神信仰
+
+## くすぶるなにか
+
+## ／彁
+
+And finally the last song of the album.

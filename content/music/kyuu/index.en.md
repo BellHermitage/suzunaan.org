@@ -83,7 +83,7 @@ If taken literally, the song is about Marisa burning alive a group of catholics 
 
 First of all "Hocus Pocus" is a (non-sense) magic formula which can mean two things: either nothing, as in "something meaningless", or a deception of sorts to hide something from another person. This will come in handy later on when those words are referenced.
 
-The song starts with a catholic whispering the following:
+The song starts with someone whispering the following:
 
 | Original | Romaji | English |
 |----------|--------|---------|
@@ -96,7 +96,6 @@ The first two lines are in reference to Deuteronomy 28:35 which, regarding what 
 > The Lord will give you sore boils on your knees and legs that cannot be cured, and they will go from the soles of your feet to the tops of your heads.
 
 In the case of the lyrics the meaning is reversed! The one speaking is apparently either about to do something bad --- for which they figured that what they are doing is morally questionable --- or they are a victim.
-If we assume the theory that the song is _really_ about Marisa burning them alive then we're in the latter case.
 
 From now on Marisa will speak until the end of the song.
 
@@ -115,11 +114,12 @@ From now on Marisa will speak until the end of the song.
 |そのすべて撃せばいい |sono subete taoseba ii |You should have no problem defeating them|
 |「方法」はもう知ったから |yarikato wa mou shitta kara |After all, you know the right way to do it!|
 
-Marisa describes two groups of people: those who lack (for simplicity) "intelligence" and those who do not.
-The ones that are not smart enough to see the trickery will perish if they do not escape their condition, for which she thinks it's not possible to recover. While the other group is smart enough to defend themselves from and outsmart whatever lies ahead of them.
-It may be tempting to assume that what she's really categorizing is who believes in God and who doesn't, but unfortunately it's wrong and it will be clear why shortly.
+Here Marisa is speaking in second-person to one or more people.
+She describes someone which is both really weak and extremely smart/clever at the same time: so smart that even if the circumstances are dire they can turn around whatever challenge they are facing.
+Notice how the voice of the singer changes as she talks about the traits: for being weak you can feel _pity_ mixed with _disgust_, for being clever she is more _proud_ and happy. When talking about ways to live on she becomes more wicked.
 
-Also, notice how the voice of the singer changes as she talks about the two groups: for the first one you can feel _pity_ mixed with _disgust_, for the second one she is more _proud_ and happy about them. When she talks about ways to live on she becomes more wicked.
+<!-- Another way of interpreting it is that, really, there are _two_ groups of people that she's describing. -->
+<!-- This however doesn't make sense. -->
 
 | Original | Romaji | English |
 |----------|--------|---------|
@@ -128,10 +128,9 @@ Also, notice how the voice of the singer changes as she talks about the two grou
 |そしたら全部　くべるんだ |soshitara zenbu kuberu nda |Afterwards, throw them all in the fire|
 |ひとさじの未練ごと |hito saji no miren-goto |Add a spoonful of regret!|
 
-Marisa proposes a challenge to both of the previous groups and, as they overcome whatever she created, they have to regretfully abandon "something" by burning it (which may or may not be symbolical in meaning).
-While it is not specified we can assume that whatever this challenge is, it can be reasonably overcame only by the second group but at a great personal cost.
+Whoever she's referring to has to go on with a great _sacrifice_ to make ends meet, knowing full well that in the end it's useless and they will regret it later on.
+This can be connected to the first stanza: we can safely assume that there's a ritual going on which will result in the one doing it to be "saved" in some way --- but they know something isn't right: they are hurting people and it isn't working.
 
-After this, we finally get to one revelation:
 
 | Original | Romaji | English |
 |----------|--------|---------|
@@ -140,13 +139,48 @@ After this, we finally get to one revelation:
 |信じるも信じぬも愚か |shinjiru mo shinjinu mo oroka |You're a fool whether you believe in it or not|
 |さあどうだざまあみろ |saa dou da zamaa miro |Now tell me how you like it!|
 
-First of all, Marisa makes fun of the challengers by saying that whatever they endured was actually just hocus pocus --- **an illusion** of sorts. Whatever she did it probably was made with magic, after all "there's no trick to this magic" --- or is it really?
+Those last two stanzas kinda point out that the second-person verses may be self-referential and what we're really observing is Marisa herself, maybe carrying out a great "magic" she's unsure about.
 
-The third verse really sets it apart: you're a fool if you think such magic is real or fake. This means that the "intelligence" she spoke of earlier is _not_ about distinguishing who believes or not in magic, because you're a fool if you take _any_ of the two choice excluding the other. This is fitting to the first group she spoke of earlier.
+In the first verse Marisa makes fun of herself by noting that all of this is just hocus pocus --- **an illusion** of sorts.
+We then cannot conclude that what she did it was made with magic: we are fools for thinking that what she's doing is "real magic" or if that it's an illusion. What is really happening then? Well we can't know, because to know what's happening we need to look beyond the illusion but we don't know if we're being tricked anyway! So, what gives? We have to pretend that what we're reading is both true and false at the same time: magic exists, but something isn't right.
+In the same vein, we can conclude that she doesn't have any idea about what she's trying to get any sort of redemption.
 
-So "intelligence" is a more quirky concept: to overcome her challenge you have to believe _and_ not believe in magic at the same time. A way to reason about this idea is by just remaining skeptic but accept that you might be tricked: magic exists, _but what if it doesn't_? If magic doesn't really exist, you just witnessed **an illusion**. If magic exists, you are a fool for not getting it.
+| Original | Romaji | English |
+|----------|--------|---------|
+|目をつぶれば微かに |me wo tsubureba kasuka ni |Close your eyes, see the calming darkness|
+|耳をふさげば静かに |mimi wo fusageba shizuka ni |Plug your ears, hear the silence|
+|向き合うべき解答ーー |mukiaubeki kotae |You're approaching your answer--|
 
-What did Marisa do?
+Still she tries anyway, because she's sure to get to a quid of sorts.
+
+| Original | Romaji | English |
+|----------|--------|---------|
+|お前は脆くも貧相で |omae wa moroku mo hinsou de |You are brittle and seedy-looking|
+|どうせ与するに値しない |douse kumisuru ni atai shinai |You're not worthy enough to side with anyone|
+|気づけ　端から敵しかいないと |kidzuke hashi kara teki shika inai to |Notice, from the very beginning, you were surrounded by enemies|
+|そうしか生きられない |sou shika ikirarenai |And you always will be|
+|しかるにお前は賢しくて |shikaru ni omae wa sakashikute |On the other hand, you are rather intelligent|
+|そればかりがおまえの味方 |sore bakari ga omae no mikata |And that brain of yours is your one ally|
+|たった一つの　その武器の限り |tatta hitotsu no sono buki no kagiri |As long as you hold that only weapon|
+|孤高に立てよ |kokou ni tateyo |You can stand proud|
+|たとえなにもかもが |tatoe nani mo ka mo ga |Even if someone says|
+|不可能だといってさえ |fukanou da to itte sae |That it's all impossible|
+|そのすべて否定しよう |sono subete hitei shiyou |Refute all of that|
+|「方法」はもう知ったから |yarikata wa mō shitta kara |After all, you know the right way to do it!|
+
+Again she goes on about describing herself: right now she's alone, sacrificing people (that clearly hate her), but her intellect and her insane resolve are strong enough to try the impossible. So more sacrifices have to happen, even if everything is an illusion it's worth trying.
+
+| Original | Romaji | English | English Alt |
+|----------|--------|---------|-------------|
+|俯け　もっと　もっと深く |utsumuke motto motto fukaku |Now bow down deeper, even deeper|
+|その背に負う　十字の分だけ |sono se ni ou juuji no bun dake |Carry your part of the crucifix|
+|そうして全部　燃やすんだ |soushite zenbu moyasu nda |Afterwards, let everything burn|
+|ひとすじの火種として |hitosuji no koi to shite |Like a single live ~~coal~~ romance|  With the spark of love to light the flame|
+|ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
+|どれほども犠牲にしてなお足りないが |dore hodo mo gisei ni shite nao tarinai ga |No matter how much you sacrifice, it'll never be enough|
+|もとより釣り合いはしない |motoyori tsuriai wa shinai |It will never be balanced out|
+|だから“魔法”なんだろう？ |dakara mahou na ndarou |That's why it's called "magic", right?|
+
 
 
 You can observe that the lyrics for this song are total hocus pocus: either they are meaningless or they _pretend to be meaningless_. (I hope you see where this is going.)

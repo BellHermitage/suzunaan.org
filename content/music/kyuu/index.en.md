@@ -143,7 +143,6 @@ Those last two stanzas kinda point out that the second-person verses may be self
 
 In the first verse Marisa makes fun of herself by noting that all of this is just hocus pocus --- **an illusion** of sorts.
 We then cannot conclude that what she did it was made with magic: we are fools for thinking that what she's doing is "real magic" or if that it's an illusion. What is really happening then? Well we can't know, because to know what's happening we need to look beyond the illusion but we don't know if we're being tricked anyway! So, what gives? We have to pretend that what we're reading is both true and false at the same time: magic exists, but something isn't right.
-In the same vein, we can conclude that she doesn't have any idea about what she's trying to get any sort of redemption.
 
 | Original | Romaji | English |
 |----------|--------|---------|
@@ -151,7 +150,7 @@ In the same vein, we can conclude that she doesn't have any idea about what she'
 |耳をふさげば静かに |mimi wo fusageba shizuka ni |Plug your ears, hear the silence|
 |向き合うべき解答ーー |mukiaubeki kotae |You're approaching your answer--|
 
-Still she tries anyway, because she's sure to get to a quid of sorts.
+Still she tries anyway, because she's sure to win in the end.
 
 | Original | Romaji | English |
 |----------|--------|---------|
@@ -168,24 +167,67 @@ Still she tries anyway, because she's sure to get to a quid of sorts.
 |そのすべて否定しよう |sono subete hitei shiyou |Refute all of that|
 |「方法」はもう知ったから |yarikata wa mō shitta kara |After all, you know the right way to do it!|
 
-Again she goes on about describing herself: right now she's alone, sacrificing people (that clearly hate her), but her intellect and her insane resolve are strong enough to try the impossible. So more sacrifices have to happen, even if everything is an illusion it's worth trying.
+Again she goes on about describing herself: right now she's alone but her intellect and her insane resolve are strong enough to try the impossible.
 
 | Original | Romaji | English | English Alt |
 |----------|--------|---------|-------------|
 |俯け　もっと　もっと深く |utsumuke motto motto fukaku |Now bow down deeper, even deeper|
 |その背に負う　十字の分だけ |sono se ni ou juuji no bun dake |Carry your part of the crucifix|
 |そうして全部　燃やすんだ |soushite zenbu moyasu nda |Afterwards, let everything burn|
-|ひとすじの火種として |hitosuji no koi to shite |Like a single live ~~coal~~ romance|  With the spark of love to light the flame|
+|ひとすじの火種として |hitosuji no koi to shite |Like a single ~~live coal~~ romance|  With the spark of love to light the flame|
 |ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
 |どれほども犠牲にしてなお足りないが |dore hodo mo gisei ni shite nao tarinai ga |No matter how much you sacrifice, it'll never be enough|
 |もとより釣り合いはしない |motoyori tsuriai wa shinai |It will never be balanced out|
 |だから“魔法”なんだろう？ |dakara mahou na ndarou |That's why it's called "magic", right?|
 
+Marisa is trying to convince her enemies ~~(and herself)~~ that this magic is all real; after all, it's "normal" that it doesn't initially work: it can't be balanced out.
+Obviously, this is a made up excuse.
+
+Also, one of the words written in the booklet is not sung! In "ひとすじの**火種**として", 火種 is "hidame", which means "live coal". Instead "koi" is sung, which means love or romance.
 
 
-You can observe that the lyrics for this song are total hocus pocus: either they are meaningless or they _pretend to be meaningless_. (I hope you see where this is going.)
+| Original | Romaji | English |
+|----------|--------|---------|
+|一歩　一歩　また一歩| ippo ippo mata ippo |Step after step, and then one more|
+|証拠が積み上がりゆく| shouko ga tsumiagariyuku |Evidence just keeps accumulating|
+|この智はこうと告げている |kono chi wa kou to tsugete iru |I will tell my wisdom in such a way|
+|けしてたどり着けぬとーー |keshite tadoritsukenu to| That you would never understand|
+|だから| dakara| So,|
+|閃け　もっと　もっと高く| hirameke motto motto takaku| Gleam, higher and higher!|
+|人には届かぬ世界へ| hito ni wa todokanu sekai he| In a world no human can reach|
+|そうして全部　虚仮にしろ| soushite zenbu koke ni shiro| And then make a fool of everyone|
+|ひとひらの法則さえ| hitohira no ruuru sae| Even this single rule!|
 
-### A meta-analysis
+People are figuring out her tricks, but she doesn't care: she will bluff and continue to do so until everyone is convinced that they're witnessing real magic.
+Through the sheer power of lies she will finally transcend what is possible for a mere human and beat everyone, while maintaining this illusion.
+
+
+| Original | Romaji | English |
+|----------|--------|---------|
+|ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
+|この魔法は種も仕掛けもないがゆえ |kono mahou wa tane mo shikake mo nai ga yue |There's no trick to this magic, that's why|
+|解答を全部ねじ伏せろ |kotae wo zenbu nejifusero |I will force all the answers on you|
+|信じればかなうから |shinjireba kanau kara |Once you believe it, it'll come true|
+|ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
+|この魔法が　全部幻なんてもう |kono mahou ga zenbu maboroshi nante mou |This magic is nothing but an illusion|
+|とっくのとうに　知っているさ |tokku no tou ni shitte iru sa |I actually knew it all along|
+|私は賢いからな |watashi wa kashikoi kara na |Because I'm real smart, you know!|
+
+And finally revealing her tricks.
+
+You can observe that the lyrics for this song are total hocus pocus: either they are meaningless or they _pretend to be meaningless_.
+What does it all mean anyway?
+
+<!-- ### A meta-analysis -->
+
+Thinking about the song as simply "Marisa burning some catholics alive" is kinda reductive, isn't it? Alas we can't really tell what is happening or the exact reason for such sacrifices.
+Really, a more interesting interpretation is that what we are witnessing is just Marisa trying to solve an incident and dueling the various bosses and fairies _without_ using magic. In fact, she may be making everything up, bullshitting her way until the incident is solved.
+
+Compared to other characters Marisa is kinda weak: to give some perspective the heroine Reimu can just ["float out of existence"](https://en.touhouwiki.net/wiki/Reimu_Hakurei#Abilities) to win a battle. But still, Marisa's the other main heroine, she must win the battles! But how? RD poses that what she lacks in mere strength is compensated with brain power: well, she _is_ clever.
+In Gensokyo duels should abide by the [Spell Card Rules](https://en.touhouwiki.net/wiki/Perfect_Memento_in_Strict_Sense/Draft_of_Spell_Card_Rules), but nothing prevents a simple human to just _pretend_ to create spell cards if nobody gets hurt.
+She must win the battles to save Gensokyo, but if she's not really a witch she has to fake magic (by creating "spell cards" that are "illusions") and convince the enemy that everything is real; in this way they can be confused until they figure out what is really happening, giving Marisa time to deal with them and eventually win.
+It's fair to say that a sufficiently complex piece of technology is almost indistinguishable from magic.
+
 
 ## Marks of Sin
 

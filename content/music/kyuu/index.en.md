@@ -36,7 +36,7 @@ In the 20th century the Japanese Industrial Standards was in development to allo
 
 After looking at the title, the very next thing you come across is the cover art:
 
-![Cover art](https://en.touhouwiki.net/images/6/6f/RDWL-0030.jpg)
+![Cover art](images/cover_art.jpg)
 
 In the image there is depicted [Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) sleeping while holding an yin-yang orb, with a stylized version of Gensokyo in the background with the title in red superimposed on everything else.
 The cover art has mostly red highlights with white-ish parts, which is a play on Reimu's color palette (the "red and white miko").
@@ -83,6 +83,8 @@ If taken literally, the song is about Marisa burning alive a group of catholics 
 
 First of all "Hocus Pocus" is a (non-sense) magic formula which can mean two things: either nothing, as in "something meaningless", or a deception of sorts to hide something from another person. This will come in handy later on when those words are referenced.
 
+The translations for this song are taken from [Izydore/Nazohato](https://nazohato.wordpress.com/2020/01/03/%E3%83%9B%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%AB%E3%82%B9-%E5%87%8B%E5%8F%B6%E6%A3%95/) and [kafka-fuura](https://kafkafuura.wordpress.com/2020/01/04/hocus-pocus/).
+
 The song starts with someone whispering the following:
 
 | Original | Romaji | English |
@@ -128,8 +130,10 @@ Notice how the voice of the singer changes as she talks about the traits: for be
 |そしたら全部　くべるんだ |soshitara zenbu kuberu nda |Afterwards, throw them all in the fire|
 |ひとさじの未練ごと |hito saji no miren-goto |Add a spoonful of regret!|
 
-Whoever she's referring to has to go on with a great _sacrifice_ to make ends meet, knowing full well that in the end it's useless and they will regret it later on.
-This can be connected to the first stanza: we can safely assume that there's a ritual going on which will result in the one doing it to be "saved" in some way --- but they know something isn't right: they are hurting people and it isn't working.
+Whoever she's referring to has to go on with a great _sacrifice_ to make ends meet, knowing full well that in the end it's useless.
+This can be connected to the first stanza: we can safely assume that there's a "ritual" of sorts going on which will result in the one doing it to be "saved" in some way --- but they know something isn't right: they are hurting people and it isn't working.
+
+Another way of interpreting it is that maybe they must overcome a major challenge which comes at a great cost.
 
 
 | Original | Romaji | English |
@@ -151,6 +155,7 @@ We then cannot conclude that what she did it was made with magic: we are fools f
 |向き合うべき解答ーー |mukiaubeki kotae |You're approaching your answer--|
 
 Still she tries anyway, because she's sure to win in the end.
+Whoever she's struggling with is getting tricked by Marisa, and in the end will figure everything out.
 
 | Original | Romaji | English |
 |----------|--------|---------|
@@ -167,14 +172,14 @@ Still she tries anyway, because she's sure to win in the end.
 |そのすべて否定しよう |sono subete hitei shiyou |Refute all of that|
 |「方法」はもう知ったから |yarikata wa mō shitta kara |After all, you know the right way to do it!|
 
-Again she goes on about describing herself: right now she's alone but her intellect and her insane resolve are strong enough to try the impossible.
+Again she goes on about describing herself: she may be alone but her intellect and her insane resolve are strong enough to try the impossible.
 
 | Original | Romaji | English | English Alt |
 |----------|--------|---------|-------------|
 |俯け　もっと　もっと深く |utsumuke motto motto fukaku |Now bow down deeper, even deeper|
 |その背に負う　十字の分だけ |sono se ni ou juuji no bun dake |Carry your part of the crucifix|
 |そうして全部　燃やすんだ |soushite zenbu moyasu nda |Afterwards, let everything burn|
-|ひとすじの火種として |hitosuji no koi to shite |Like a single ~~live coal~~ romance|  With the spark of love to light the flame|
+|ひとすじの火種として |hitosuji no ~~hidame~~ koi to shite |Like a single ~~live coal~~ romance|  With the spark of love to light the flame|
 |ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
 |どれほども犠牲にしてなお足りないが |dore hodo mo gisei ni shite nao tarinai ga |No matter how much you sacrifice, it'll never be enough|
 |もとより釣り合いはしない |motoyori tsuriai wa shinai |It will never be balanced out|
@@ -213,37 +218,239 @@ Through the sheer power of lies she will finally transcend what is possible for 
 |とっくのとうに　知っているさ |tokku no tou ni shitte iru sa |I actually knew it all along|
 |私は賢いからな |watashi wa kashikoi kara na |Because I'm real smart, you know!|
 
-And finally revealing her tricks.
+And, finally, she's revealing her tricks.
 
 You can observe that the lyrics for this song are total hocus pocus: either they are meaningless or they _pretend to be meaningless_.
 What does it all mean anyway?
 
-<!-- ### A meta-analysis -->
 
-Thinking about the song as simply "Marisa burning some catholics alive" is kinda reductive, isn't it? Alas we can't really tell what is happening or the exact reason for such sacrifices.
+Thinking about the song as simply "Marisa burning some catholics alive" is kinda reductive, isn't it?
+To be fair, there's the theme of religion going on that may hint at this theory, especially the quote on Deuteronomy, but alas we can't really tell what is happening or the exact reason for such sacrifices.
 Really, a more interesting interpretation is that what we are witnessing is just Marisa trying to solve an incident and dueling the various bosses and fairies _without_ using magic. In fact, she may be making everything up, bullshitting her way until the incident is solved.
+
+What if Marisa _wasn't_ a witch?
+
+### The illusion of magic
 
 Compared to other characters Marisa is kinda weak: to give some perspective the heroine Reimu can just ["float out of existence"](https://en.touhouwiki.net/wiki/Reimu_Hakurei#Abilities) to win a battle. But still, Marisa's the other main heroine, she must win the battles! But how? RD poses that what she lacks in mere strength is compensated with brain power: well, she _is_ clever.
 In Gensokyo duels should abide by the [Spell Card Rules](https://en.touhouwiki.net/wiki/Perfect_Memento_in_Strict_Sense/Draft_of_Spell_Card_Rules), but nothing prevents a simple human to just _pretend_ to create spell cards if nobody gets hurt.
 She must win the battles to save Gensokyo, but if she's not really a witch she has to fake magic (by creating "spell cards" that are "illusions") and convince the enemy that everything is real; in this way they can be confused until they figure out what is really happening, giving Marisa time to deal with them and eventually win.
 It's fair to say that a sufficiently complex piece of technology is almost indistinguishable from magic.
 
+With respect to Reimu, Marisa feels more "in the background" regarding incident-solving, it doesn't help that she's just a mere human in a world of monsters.
+In practical terms this works for the setting of the story: Marisa _is supposed to be_ you [the player]: she's a simple human-turned-witch and not an innate witch, she just studied a lot and gave herself to magic.
+
+Returning to our universe, I think that the song is about what it feels like to have imposter syndrome.
+Defeating foes is really just a metaphor for the everyday stuff: exams to do, deadlines to respect, conflicts with other people to resolve, etc...
+
+Sometimes the thought that I'm not good enough creeps up; as a matter of fact this very text was hard enough to come up.
+It's not unusual for me to think "What if I've been faking everything?"; while deep inside I know that it's an useless worry my brain won't let it go easily.
+
+But still, in the end I _typically_ (not always!) succeed on my task because I know I can do it, if I put enough effort in.
+Don't let your brain play tricks on you: you're clever enough to press on and solve your problems, try to believe in yourself and _work your magic_.
+You may not think that your magic is real, but everyone else has to believe it: this idea of "creating illusions" is the real deal.
+And when everything goes accordingly, then that's when you strike and show the world what you're capable of.
+
+Anyway, that's just one way of seeing it.
+Yet another interpretation, trivial even, is that the song is obscure enough for obscurity sake;
+as if the text is pretending to say something that is not there --- hocus pocus you might say.
+Maybe it's a mix of all three?
+
+<!-- ### Bonus: Illustration -->
+
+![The illustration for Hocus Pocus: it shows Marisa smiling flying upside down towards the viewer. Around her there are cardboard-cut images of potions, cats, bats and other witchery.](images/hocus_pocus.png "The illustration for Hocus Pocus.")
+
 
 ## Marks of Sin
+
+We leave Marisa behind and finally go to the third track, sung by miko.
+In Marks of Sin the protagonist is [Clownpiece](https://en.touhouwiki.net/wiki/Clownpiece), a peculiar fairy from hell.
+Before going over the song I have to take a small detour and talk a little about the character design of Clownpiece because it's central to the song.
+
+Clownpiece first appears in the 15th installment of the mainline serie of games: [Legacy of Lunatic Kingdom](https://en.touhouwiki.net/wiki/Legacy_of_Lunatic_Kingdom).
+The plot of LoLK boils down to a divine spirit named [Junko](https://en.touhouwiki.net/wiki/Junko) that wants to invade the Lunar Capital on the Moon to vindicate her dead son.To do that she befriends a Goddess of Hell, [Hecatia](https://en.touhouwiki.net/wiki/Hecatia), which in turn presents to her her subordinate: Clownpiece. Junko "purifies" Clownpiece to make her stronger; after this ordeal she gains the power to make people insane.
+
+The hell fairy is represented as petite and childish ~~clown~~ wearing what's basically the United States flag, while she goes to the Moon to wreck havoc --- the irony of which should not escape you.
+
+With this introduction we can finally go over the song. The translation is taken from [Izydore/Nazohato](https://atransientfaith.wordpress.com/2018/06/05/marks-of-sin-yonder-voice/).
+
+The song, in a sense, is about the "creation" of Clownpiece: how she became who she's now.
+To be more specific the song is a metaphor that uses Clownpiece as a character.
+
+| Original | Romaji | English |
+|---|---|---|
+|さてこれに無色の妖精 |sate kore ni Kuraunpiisu |Now, here’s the ~~achromatic~~ fairy Clownpiece!|
+|地獄の申し子の一匹は |jigoku no moushigo no hitori wa |A single Heaven-sent child of Hell!|
+|その小さな足を踏んで |sono chiisana ashi wo funde |Her little feet tread on, as she mutters|
+|ぽつりぽつりと呟く |potsuri potsuri to tsubuyaku |Silently, silently, so no one would hear|
+
+We start with what feels like the beginning of a theatrical play.
+The narrator introduces Clownpiece as a fairy, without saying the word "achromatic" which is written in the text.
+"無色の妖精" is spelled "moshoku to yousei" which translates to "achromatic fairy".
+
+The narrator also juxtaposes Clownpiece's birthplace (Hell) with being Heaven-sent; this will be relevant later on.
+
+| Original | Romaji | English |
+|---|---|---|
+|そう、かねてより思うに |sou, kanete yori omou ni |Right, you’ve been thinking for a while|
+|物足りないものがある |mono tarinai mono ga aru |She lacks so many things, after all|
+|地獄の妖精にして |jigoku no yousei ni shite |As a fairy of Hell|
+|その記号は何処に？ |sono shigunechaa wa doko ni? |Where is her signature ~~symbol~~?|
+
+| Original | Romaji | English |
+|---|---|---|
+|ありとあらゆる罪人が |ari to arayuru sainin ga |All the sinners|
+|この身産まれた故郷に落ちて |kono mi umareta basho ni ochite |End up falling to this place I’ve been born in|
+|そして己が罪のその故にまた去ってゆく |soshite onore ga tsumi no sono yue ni mata satte yuku |But because of their own sins they’re send off back right away|
+
+| Original | Romaji | English |
+|---|---|---|
+|しかるにこの身には一欠けらの罪さえなく |shikaru ni kono mi ni wa hito kakera no tsumi sae naku |However, my body bears not even a single piece of sins!|
+|それが故にこの身は行くべきところも無い |sore ga yue ni kono mi wa yukubeki tokoro mo nai |And because of this, there’s no place for me as well|
+
+| Original | Romaji | English |
+|---|---|---|
+|ただそこにあるだけではいけなかったのか、と。 |tada soko ni aru dake de wa ikenakatta no ka, to. |“But just staying here forever is wrong, right?” I was thinking|
+|或いはそれがたった一つの罪か |arui wa sore ga tatta hitotsu no tsumi ka |Perhaps that is my one and only sin?|
+
+| Original | Romaji | English |
+|---|---|---|
+|さながら |sanagara |It’s just like|
+|己に立ち向かう　全てをなぎ倒す |onore ni tachimukau subete wo nagitaosu |When someone fights me and I wipe out everything in my way…|
+|怒りに震える姿を思い起こさせよう |ikari ni furueru sugata wo omoi okosaseyou |Let’s recall that silhouette trembling in fury!|
+
+| Original | Romaji | English |
+|---|---|---|
+|ーーー我は知っているぞ！ |atai wa shitte iru zo! |I know very well!|
+|この業火にも似た色 |kono gouka ni mo nita iro |The color resembling the hell fires|
+|これこそいつか見た[Ira]というのだろう？！ |kore koso itsuka mita funnu to iu no darou?! |That was the “Anger” I’ve seen, wasn’t it?!|
+
+
+| Original | Romaji | English |
+|---|---|---|
+|ああ、なんという罪の色彩をしている！ |aa, nantoiu tsumi no iro wo shite iru! |Aah, how splendid color of a sin I’ve just seen!|
+|ああ、これこそこの身にふさわしいーーー！ |aa, kore koso kono mi ni fusawashii—! |Aah, how well it suits me!|
+
+| Original | Romaji | English |
+|---|---|---|
+|そもこれが無垢の妖精 |somo kore ga Kuraunpiisu |Here’s the achromatic fairy Clownpiece!|
+|地獄の申し子の一匹が |jigoku no moushigo no hitori ga |A single Heaven-sent child of Hell!|
+|その小さな頭をふって |sono chiisana atama wo futte |Shaking her little head, as she mutters|
+|ぽつりぽつりと呟く |potsuri potsuri to tsubuyaku |Silently, silently, so no one would hear|
+
+| Original | Romaji | English |
+|---|---|---|
+|そう、己の産まれを |sou, onore no umare wo |Right, before you begin to|
+|問い始めるその前に |toi hajimeru sono mae ni |Question the reason of your own existence|
+|そのらしさを求める |sono rashisa wo motomeru |Ask yourself,|
+|一体何が為に？ |ittai nani ga tame ni? |“Why exactly do I seek my own identity?”|
+
+
+| Original | Romaji | English |
+|---|---|---|
+|何も知らないもの、 |nani mo shiranai mono, |When those who once knew nothing|
+|何かを身に纏うこと、が。 |nanika wo mi ni matou koto, ga. |Begin to clothe themselves…|
+|或いはそれが初めの罪であろうか？ |arui wa sore ga hajime no tsumi de arou ka? |Perhaps that was humanity’s first, original sin?|
+
+| Original | Romaji | English |
+|---|---|---|
+|さながら |sanagara |It’s just like|
+|己の持たぬもの　全てを畏れ憎む |onore no motanu mono subete wo osore nikumu |Growing to fear and detest what I don’t have|
+|醜く歪んだ姿を思い起こさせよう |minikuku yuganda sugata wo omoi okosase you |Let’s recall that disgustingly crooked silhouette!|
+
+| Original | Romaji | English |
+|---|---|---|
+|ーー我はしっているぞ！ |atari wa shitte iru zo! |I know very well!|
+|この極寒に似た色 |kono gokkan ni nita iro |The color resembling the midwinter coldness|
+|これこそいつか見た[Invida]というのだろう？！ |kore koso itsuka mita shitto to iu no darou?! |That was the “Envy” I’ve seen, wasn’t it?!|
+
+| Original | Romaji | English |
+|---|---|---|
+|ああ、なんという罪の色彩をしている！ |aa, nantoiu tsumi no iro wo shite iru! |Aah, how splendid color of a sin I’ve just seen!|
+|ああ、これこそこの身に纏う色ーーー！ |aa, kore koso kono mi ni matou iro—! |Aah, that is a color I will clothe myself with!|
+
+| Original | Romaji | English |
+|---|---|---|
+|穢れなき砂漠に |kegare naki sabaku ni |In this unpolluted desert|
+|根付くなき「幻想」 |nedzuku naki ‘gensou’ |Dwells a rootless “illusion”|
+|無垢なるものの目が |mukunaru mono no me ga |The eyes of the purified ones|
+|明々と爛々と |aka aka to ran ran to |Glow with flames|
+
+| Original | Romaji | English |
+|---|---|---|
+|さあさあ |saa saa |Come on|
+|踊れよ非無色 |odore yo piero |Dance now, achromatic clown!|
+|誰の意志にさえも抗え |dare no ishi ni sae mo aragae |Oppose whoever’s intents are thrown your way!|
+
+| Original | Romaji | English |
+|---|---|---|
+|歌えよ非無垢 |utae yo piero |Sing now, impure clown!|
+|お前が世界の中心となって |omae ga sekai no chuushin to natte |You became the center of this world!|
+
+
+| Original | Romaji | English |
+|---|---|---|
+|笑えよ凶精 |warae yo piero |Laugh now, unlucky clown!|
+|幾つもの罪の成果に意味を与えよ！ |ikutsu mono tsumi no seika ni imi wo atae yo! |Give the products of these countless sins a meaning of their own!|
+
+| Original | Romaji | English |
+|---|---|---|
+|己の望むもの　全てを叶えよう、 |onore no nozomu mono subete wo kanae you, |I’ll grant every single wish you have|
+|遥か遠き「幻想」にさえ手を伸ばすように |haruka tooki ‘gensou’ ni sae te wo nobasu you ni |So that you can even reach your hand out to this distant “illusion”|
+
+| Original | Romaji | English |
+|---|---|---|
+|ーー我にはわかったぞ！ |atai ni wa wakatta zo! |I recognize it!|
+|この象形の意味が |kono katachi no imi ga |The meaning of this shape hieroglyphics|
+|これこそいつか見た[spervia]というのだろう！？ |kore koso itsuka mita gouman to iu no darou! |That was the “Greed” I’ve seen, wasn’t it?!|
+
+| Original | Romaji | English |
+|---|---|---|
+|ああ、なんという罪に満ちた意匠か！ |aa, nantoiu tsumi ni michita ishou ka! |Aah, what a complete design I had made!|
+|ああ、これこそ求めた形よーー！ |aa, kore koso motometa katachi yo! |Aah, that is the body I wanted!|
+
+| Original | Romaji | English |
+|---|---|---|
+|ああ、これでいい、これがいい、と独り |aa, kore de ii, kore ga ii, to hitori |Aah, that’s it, that’s what I like!|
+|ただ、そっとほくそえむのである！ |tada, sotto hokusoemu no de aru! |I laugh silently to myself alone!|
+
+### The illusion of rapaciousness
+
+<!-- ### Bonus: Illustration (NSFW-ish) -->
+
+![The illustration for Marks of Sin: it shows an artistic nude of Clownpiece wickedly smiling at the viewer. Her figure is super-imposed over the United States flag, which she holds with both her hands.](images/marks_of_sin.png "The illustration for Marks of Sin.")
 
 ## trill_Moonshine
 
 ## 幻想少女物語
 
+### The illusion of the everyday life
 
 ## Dolls into Pitiful Pretenders
+
+### The illusion of storytelling
 
 ## little_Metamorphoses
 
 ## 幻想星神信仰
 
+### The illusion of religion
+
 ## くすぶるなにか
+
+### The delusion of adulthood and chūnibyō
 
 ## ／彁
 
 And finally the last song of the album.
+
+### The illusion of fantasy
+
+What are stories anyway?
+
+# Putting it all together
+
+## Death of the author
+
+## Fantasy storytelling
+

@@ -288,7 +288,7 @@ We start with what feels like the beginning of a theatrical play.
 The narrator introduces Clownpiece as a fairy, without saying the word "achromatic" which is written in the text.
 "無色の妖精" is spelled "moshoku to yousei" which translates to "achromatic fairy".
 
-The narrator also juxtaposes Clownpiece's birthplace (Hell) with being Heaven-sent; this will be relevant later on.
+Notice the juxtaposition of Clownpiece's birthplace (Hell) with her being "Heaven-sent"; this will be relevant later on.
 
 | Original | Romaji | English |
 |---|---|---|
@@ -297,21 +297,37 @@ The narrator also juxtaposes Clownpiece's birthplace (Hell) with being Heaven-se
 |地獄の妖精にして |jigoku no yousei ni shite |As a fairy of Hell|
 |その記号は何処に？ |sono shigunechaa wa doko ni? |Where is her signature ~~symbol~~?|
 
+At this time we are witnessing a "quasi-pure" (as in "unrefined") version of Clownpiece before the events of LoLK which lacks what will be referred as "sins", hence the "achromatic" title.
+In fact she lacks so many sins that she's not "recognizable" with respect to the other hell fairies: the narrator says that she lacks a signature (while the text refers to it as a symbol), probably referring to the not-yet-created spell cards like "Hell Sign [...]".
+
+Here we encounter the first sign that Clownpiece may be a stand-in for something else by virtue of calling her a "symbol" in the text.
+
+Before continuing I have to spend some words about what I mean for "purity" here.
+"Clownpiece eventually gets purified by Junko just before the events of LoLK" means that before Junko's purification she was "normal" (for that being a sinner in hell constitutes being "normal) _and then_ she became a being of pure "impure" lifeforce capable of invading the Moon.
+This doesn't mean that Clownpiece is "pure", in fact she's able to spread impurity (as in the Shinto sense of impurity, feared by Lunarians) at an alarming rate, which was the point for Junko to do it.
+A better word for this kind of purity (to distinguish it from the Shinto one) is that she's in a sense more _"refined"_.
+I have to stress that this song takes place before, during and after the impurity of Clownpiece is refined by Junko.
+
 | Original | Romaji | English |
 |---|---|---|
 |ありとあらゆる罪人が |ari to arayuru sainin ga |All the sinners|
 |この身産まれた故郷に落ちて |kono mi umareta basho ni ochite |End up falling to this place I’ve been born in|
 |そして己が罪のその故にまた去ってゆく |soshite onore ga tsumi no sono yue ni mata satte yuku |But because of their own sins they’re send off back right away|
-
-| Original | Romaji | English |
-|---|---|---|
+| |
 |しかるにこの身には一欠けらの罪さえなく |shikaru ni kono mi ni wa hito kakera no tsumi sae naku |However, my body bears not even a single piece of sins!|
 |それが故にこの身は行くべきところも無い |sore ga yue ni kono mi wa yukubeki tokoro mo nai |And because of this, there’s no place for me as well|
-
-| Original | Romaji | English |
-|---|---|---|
+| |
 |ただそこにあるだけではいけなかったのか、と。 |tada soko ni aru dake de wa ikenakatta no ka, to. |“But just staying here forever is wrong, right?” I was thinking|
 |或いはそれがたった一つの罪か |arui wa sore ga tatta hitotsu no tsumi ka |Perhaps that is my one and only sin?|
+
+This is the first instance of Clownpiece speaking: she entertains the idea that evil people come up in hell due to their sins, but they are so wicked that they get sent back.
+Another way of viewing it is that maybe they are _called back_ from hell.
+
+For her there's no business in hell because she's not accumulated any sins, yet she was born there.
+But she wonders that maybe she has to do something, to not remain stuck there forever.
+
+<!-- | Original | Romaji | English | -->
+<!-- |---|---|---| -->
 
 | Original | Romaji | English |
 |---|---|---|
@@ -319,17 +335,21 @@ The narrator also juxtaposes Clownpiece's birthplace (Hell) with being Heaven-se
 |己に立ち向かう　全てをなぎ倒す |onore ni tachimukau subete wo nagitaosu |When someone fights me and I wipe out everything in my way…|
 |怒りに震える姿を思い起こさせよう |ikari ni furueru sugata wo omoi okosaseyou |Let’s recall that silhouette trembling in fury!|
 
+So the sinless, lacking any purpose, goes around picking fights.
+After winning she's overpowered with adrenaline, her emotions go wild and she finally figures it out:
+
 | Original | Romaji | English |
 |---|---|---|
 |ーーー我は知っているぞ！ |atai wa shitte iru zo! |I know very well!|
 |この業火にも似た色 |kono gouka ni mo nita iro |The color resembling the hell fires|
 |これこそいつか見た[Ira]というのだろう？！ |kore koso itsuka mita funnu to iu no darou?! |That was the “Anger” I’ve seen, wasn’t it?!|
-
-
-| Original | Romaji | English |
-|---|---|---|
+| |
 |ああ、なんという罪の色彩をしている！ |aa, nantoiu tsumi no iro wo shite iru! |Aah, how splendid color of a sin I’ve just seen!|
 |ああ、これこそこの身にふさわしいーーー！ |aa, kore koso kono mi ni fusawashii—! |Aah, how well it suits me!|
+
+After demonstrating her power, she got her very first sin: anger.
+
+
 
 | Original | Romaji | English |
 |---|---|---|

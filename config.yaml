@@ -12,6 +12,23 @@ markup:
     ordered: true
     startLevel: 1
 
+outputs:
+  home: ['HTML', 'ATOM']
+  section: ['HTML']
+  taxonomy: ['HTML']
+  taxonomyTerm: ['HTML']
+
+outputFormats:
+  ATOM:
+    name: ATOM
+    baseName: "feed"
+    mediaType: "application/atom+xml"
+
+# Define a new ATOM media type
+mediaTypes:
+  "application/atom+xml":
+    suffixes: ["atom"]
+
 languages:
   en:
     languageName: 'English'

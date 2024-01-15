@@ -87,11 +87,13 @@ The translations for this song are taken from [Izydore/Nazohato](https://nazohat
 
 The song starts with someone whispering the following:
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 | 信じる者はすくわれる    | shinjiru mono wa sukuwareru |Believers shall be saved                          |
 | 足から全部すくわれる    | ashi kara zenbu sukuwareru  |From the soles of their feet to tip of their heads|
 | わかっていながらもーー  | wakatte inagara mo          |While I knew that, still-- |
+{{</ details >}}
 
 The first two lines are in reference to Deuteronomy 28:35 which, regarding what happens to Israeliti people for _disobeying_ God, states:
 
@@ -101,6 +103,7 @@ In the case of the lyrics the meaning is reversed! The one speaking is apparentl
 
 From now on Marisa will speak until the end of the song.
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |お前は弱くも脆弱で| omae wa yowaku mo zeijaku de | You are weak and fragile |
@@ -115,6 +118,7 @@ From now on Marisa will speak until the end of the song.
 |牙を剥き出しにしても |kiba wo mukidashi ni shite mo |Bares its fangs at you |
 |そのすべて撃せばいい |sono subete taoseba ii |You should have no problem defeating them|
 |「方法」はもう知ったから |yarikato wa mou shitta kara |After all, you know the right way to do it!|
+{{</ details >}}
 
 Here Marisa is speaking in second-person to one or more people.
 She describes someone which is both really weak and extremely smart/clever at the same time: so smart that even if the circumstances are dire they can turn around whatever challenge they are facing.
@@ -123,12 +127,14 @@ Notice how the voice of the singer changes as she talks about the traits: for be
 <!-- Another way of interpreting it is that, really, there are _two_ groups of people that she's describing. -->
 <!-- This however doesn't make sense. -->
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |傾け　もっと　もっと重く |katamuke motto motto omoku |Now bend, as the weight gets bigger|
 |あるもの皆　乗せ切るまで |aru mono mina nosekiru made |Until you pull through everything|
 |そしたら全部　くべるんだ |soshitara zenbu kuberu nda |Afterwards, throw them all in the fire|
 |ひとさじの未練ごと |hito saji no miren-goto |Add a spoonful of regret!|
+{{</ details >}}
 
 Whoever she's referring to has to go on with a great _sacrifice_ to make ends meet, knowing full well that in the end it's useless.
 This can be connected to the first stanza: we can safely assume that there's a "ritual" of sorts going on which will result in the one doing it to be "saved" in some way --- but they know something isn't right: they are hurting people and it isn't working.
@@ -136,27 +142,32 @@ This can be connected to the first stanza: we can safely assume that there's a "
 Another way of interpreting it is that maybe they must overcome a major challenge which comes at a great cost.
 
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
 |この魔法に種も仕掛けもないのだと |kono mahou ni tane mo shikake mo nai no da to |There's no trick to this magic|
 |信じるも信じぬも愚か |shinjiru mo shinjinu mo oroka |You're a fool whether you believe in it or not|
 |さあどうだざまあみろ |saa dou da zamaa miro |Now tell me how you like it!|
+{{</ details >}}
 
 Those last two stanzas kinda point out that the second-person verses may be self-referential and what we're really observing is Marisa herself, maybe carrying out a great "magic" she's unsure about.
 
 In the first verse Marisa makes fun of herself by noting that all of this is just hocus pocus --- **an illusion** of sorts.
 We then cannot conclude that what she did it was made with magic: we are fools for thinking that what she's doing is "real magic" or if that it's an illusion. What is really happening then? Well we can't know, because to know what's happening we need to look beyond the illusion but we don't know if we're being tricked anyway! So, what gives? We have to pretend that what we're reading is both true and false at the same time: magic exists, but something isn't right.
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |目をつぶれば微かに |me wo tsubureba kasuka ni |Close your eyes, see the calming darkness|
 |耳をふさげば静かに |mimi wo fusageba shizuka ni |Plug your ears, hear the silence|
 |向き合うべき解答ーー |mukiaubeki kotae |You're approaching your answer--|
+{{</ details >}}
 
 Still she tries anyway, because she's sure to win in the end.
 Whoever she's struggling with is getting tricked by Marisa, and in the end will figure everything out.
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |お前は脆くも貧相で |omae wa moroku mo hinsou de |You are brittle and seedy-looking|
@@ -171,9 +182,11 @@ Whoever she's struggling with is getting tricked by Marisa, and in the end will 
 |不可能だといってさえ |fukanou da to itte sae |That it's all impossible|
 |そのすべて否定しよう |sono subete hitei shiyou |Refute all of that|
 |「方法」はもう知ったから |yarikata wa mō shitta kara |After all, you know the right way to do it!|
+{{</ details >}}
 
 Again she goes on about describing herself: she may be alone but her intellect and her insane resolve are strong enough to try the impossible.
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English | English Alt |
 |----------|--------|---------|-------------|
 |俯け　もっと　もっと深く |utsumuke motto motto fukaku |Now bow down deeper, even deeper|
@@ -184,6 +197,7 @@ Again she goes on about describing herself: she may be alone but her intellect a
 |どれほども犠牲にしてなお足りないが |dore hodo mo gisei ni shite nao tarinai ga |No matter how much you sacrifice, it'll never be enough|
 |もとより釣り合いはしない |motoyori tsuriai wa shinai |It will never be balanced out|
 |だから“魔法”なんだろう？ |dakara mahou na ndarou |That's why it's called "magic", right?|
+{{</ details >}}
 
 Marisa is trying to convince her enemies ~~(and herself)~~ that this magic is all real; after all, it's "normal" that it doesn't initially work: it can't be balanced out.
 Obviously, this is a made up excuse.
@@ -191,6 +205,7 @@ Obviously, this is a made up excuse.
 Also, one of the words written in the booklet is not sung! In "ひとすじの**火種**として", 火種 is "hidame", which means "live coal". Instead "koi" is sung, which means love or romance.
 
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |一歩　一歩　また一歩| ippo ippo mata ippo |Step after step, and then one more|
@@ -202,11 +217,13 @@ Also, one of the words written in the booklet is not sung! In "ひとすじの**
 |人には届かぬ世界へ| hito ni wa todokanu sekai he| In a world no human can reach|
 |そうして全部　虚仮にしろ| soushite zenbu koke ni shiro| And then make a fool of everyone|
 |ひとひらの法則さえ| hitohira no ruuru sae| Even this single rule!|
+{{</ details >}}
 
 People are figuring out her tricks, but she doesn't care: she will bluff and continue to do so until everyone is convinced that they're witnessing real magic.
 Through the sheer power of lies she will finally transcend what is possible for a mere human and beat everyone, while maintaining this illusion.
 
 
+{{< details summary="Lyrics" >}}
 | Original | Romaji | English |
 |----------|--------|---------|
 |ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
@@ -217,6 +234,7 @@ Through the sheer power of lies she will finally transcend what is possible for 
 |この魔法が　全部幻なんてもう |kono mahou ga zenbu maboroshi nante mou |This magic is nothing but an illusion|
 |とっくのとうに　知っているさ |tokku no tou ni shitte iru sa |I actually knew it all along|
 |私は賢いからな |watashi wa kashikoi kara na |Because I'm real smart, you know!|
+{{</ details >}}
 
 And, finally, she's revealing her tricks.
 
@@ -268,7 +286,7 @@ In Marks of Sin the protagonist is [Clownpiece](https://en.touhouwiki.net/wiki/C
 Before going over the song I have to take a small detour and talk a little about the character design of Clownpiece because it's central to the song.
 
 Clownpiece first appears in the 15th installment of the mainline serie of games: [Legacy of Lunatic Kingdom](https://en.touhouwiki.net/wiki/Legacy_of_Lunatic_Kingdom).
-The plot of LoLK boils down to a divine spirit named [Junko](https://en.touhouwiki.net/wiki/Junko) that wants to invade the Lunar Capital on the Moon to vindicate her dead son.To do that she befriends a Goddess of Hell, [Hecatia](https://en.touhouwiki.net/wiki/Hecatia), which in turn presents to her her subordinate: Clownpiece. Junko "purifies" Clownpiece to make her stronger; after this ordeal she gains the power to make people insane.
+The plot of LoLK boils down to a divine spirit named [Junko](https://en.touhouwiki.net/wiki/Junko) that wants to invade the Lunar Capital on the Moon to vindicate her dead son. To do that she befriends a Goddess of Hell, [Hecatia](https://en.touhouwiki.net/wiki/Hecatia), which in turn presents to her her subordinate: Clownpiece. Junko "purifies" Clownpiece to make her stronger; after this ordeal she gains the power to make people insane.
 
 The hell fairy is represented as petite and childish ~~clown~~ wearing what's basically the United States flag, while she goes to the Moon to wreck havoc --- the irony of which should not escape you.
 

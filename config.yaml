@@ -16,7 +16,6 @@ outputs:
   home: ['HTML', 'ATOM']
   section: ['HTML']
   taxonomy: ['HTML']
-  taxonomyTerm: ['HTML']
 
 outputFormats:
   ATOM:

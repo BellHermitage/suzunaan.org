@@ -14,6 +14,8 @@
           buildInputs = [
             pkgs.hugo
             pkgs.dart-sass
+            pkgs.nodejs
+            pkgs.just
           ];
         };
       }

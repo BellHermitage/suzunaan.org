@@ -19,7 +19,7 @@ I'll still be explaining the album and its meaning as we go over it --- but I'll
 
 So, before going over the album, I _have_ to talk about the group that made it, at least a little bit.
 
-# Who is 凋叶棕?
+## Who is 凋叶棕?
 
 凋叶棕 (_Diao ye Zong_, "withered leaf"; just DyZ from now on) is a doujin music group that makes music about Touhou using music from the games. There are three important members of this group: RD-Sounds, Merami and nayuta. RD is the person in charge of everything _but_ singing: they arrange, compose, come up with lyrics and so on, while Merami and nayuta are the singers. Some other singers appear as guests and others join for guest arranges and general help, but at their the core DyZ has just those three members.
 
@@ -28,7 +28,7 @@ In its songs RD loves to include obscure references to other works, censor some 
 
 With just the bare minimum of the introductions to go by, we can finally take a look at the album.
 
-# First impressions
+## First impressions
 
 The very first thing you come across is the title of the album: simply "彁". As I said before, the names of the albums from DyZ are just a single kanji that set the topic for the various songs --- well, the kanji "彁" doesn't exist, so it can't have a meaning. Nice party trick huh?
 
@@ -61,7 +61,7 @@ The first line is always the same in every album and it lets you know that this 
 
 Why can't we stop imagining about her? It's not just about her title, but to figure this one out we have to come back to it after listening to the songs.
 
-# The songs
+## The songs
 
 About the songs, most of them have vocals --- while some do not --- and the ones that do have an illustration in the booklet; this is typical for RD: after listening to the songs it's almost a requirement to go and look at the artworks to figure out the meaning. Not that the lyrics don't stand by themselves, but RD tries to make some concepts more obvious in the illustrations, if possible.
 
@@ -69,14 +69,14 @@ There is not _really_ that much to say about the instrumental songs, but for the
 
 Now, let's go.
 
-## ALL EVIL MISCHIEF
+### ALL EVIL MISCHIEF
 
 The first instrumental song of the album. It's a mash-up of the Player's Score screen from Mountain of Faith and Necrofantasia from Perfect Cherry Blossom. After about 2 minutes of anticipation and crescendos with an almost evil/wicked vibe, the song develops in full with a more melancholy feel, as if what we are witnessing is the "end" of "something" important.
 It then finally dies of peacefully.
 
 Looking ahead, and considering that one of the themes here is Necrofantasia, I feel like this is an introduction to the main topic of the album: the deconstruction of Gensokyo.
 
-## ホーカス・ポーカス
+### ホーカス・ポーカス
 
 _Hocus Pocus_ is the second song of the album, with vocals from Merami. It stars [Marisa Kirisame](https://en.touhouwiki.net/wiki/Marisa_Kirisame), an ordinary magician and long-time friend of Reimu.
 If taken literally, the song is about Marisa burning alive a group of catholics as retribution for the witch-hunts of 15th to 18th century Europe; but there are other possible interpretations so we'll still go over it.
@@ -248,7 +248,7 @@ Really, a more interesting interpretation is that what we are witnessing is just
 
 What if Marisa _wasn't_ a witch?
 
-### The illusion of magic
+#### The illusion of magic
 
 Compared to other characters Marisa is kinda weak: to give some perspective the heroine Reimu can just ["float out of existence"](https://en.touhouwiki.net/wiki/Reimu_Hakurei#Abilities) to win a battle. But still, Marisa's the other main heroine, she must win the battles! But how? RD poses that what she lacks in mere strength is compensated with brain power: well, she _is_ clever.
 In Gensokyo duels should abide by the [Spell Card Rules](https://en.touhouwiki.net/wiki/Perfect_Memento_in_Strict_Sense/Draft_of_Spell_Card_Rules), but nothing prevents a simple human to just _pretend_ to create spell cards if nobody gets hurt.
@@ -279,7 +279,7 @@ Maybe it's a mix of all three?
 {{< figure src="images/hocus_pocus.png" title="Illustration for Hocus Pocus" caption="The illustration shows Marisa smiling flying upside down towards the viewer. Around her there are cardboard-cut images of potions, cats, bats and other witchery." alt="Illustration for Marks of Sin" >}}
 
 
-## Marks of Sin
+### Marks of Sin
 
 We leave Marisa behind and finally go to the third track, sung by miko.
 In Marks of Sin the protagonist is [Clownpiece](https://en.touhouwiki.net/wiki/Clownpiece), a peculiar fairy from hell.
@@ -453,43 +453,43 @@ After demonstrating her power, she got her very first sin: anger.
 |ああ、これでいい、これがいい、と独り |aa, kore de ii, kore ga ii, to hitori |Aah, that’s it, that’s what I like!|
 |ただ、そっとほくそえむのである！ |tada, sotto hokusoemu no de aru! |I laugh silently to myself alone!|
 
-### The illusion of rapaciousness
+#### The illusion of rapaciousness
 
 <!-- ### Bonus: Illustration (NSFW-ish) -->
 
 {{< figure src="images/marks_of_sin.png" title="Illustration for Marks of Sin" caption="The illustration shows an artistic nude of Clownpiece wickedly smiling at the viewer. Her figure is super-imposed over the United States flag, which she holds with both her hands." alt="Illustration for Marks of Sin" >}}
 
-## trill_Moonshine
+### trill_Moonshine
 
-## 幻想少女物語
+### 幻想少女物語
 
-### The illusion of the everyday life
+#### The illusion of the everyday life
 
-## Dolls into Pitiful Pretenders
+### Dolls into Pitiful Pretenders
 
-### The illusion of storytelling
+#### The illusion of storytelling
 
-## little_Metamorphoses
+### little_Metamorphoses
 
-## 幻想星神信仰
+### 幻想星神信仰
 
-### The illusion of religion
+#### The illusion of religion
 
-## くすぶるなにか
+### くすぶるなにか
 
-### The delusion of adulthood and chūnibyō
+#### The delusion of adulthood and chūnibyō
 
-## ／彁
+### ／彁
 
 And finally the last song of the album.
 
-### The illusion of fantasy
+#### The illusion of fantasy
 
 What are stories anyway?
 
-# Putting it all together
+## Putting it all together
 
-## Death of the author
+### Death of the author
 
-## Fantasy storytelling
+### Fantasy storytelling
 

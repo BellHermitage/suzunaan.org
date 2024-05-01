@@ -8,9 +8,9 @@ sectionPagesMenu: 'main'
 
 markup:
   tableOfContents:
-    endLevel: 3
+    startLevel: 2
+    endLevel: 4
     ordered: true
-    startLevel: 1
 
 outputs:
   home: ['HTML', 'ATOM']
@@ -38,6 +38,19 @@ languages:
 
 params:
   logo: '/logo.svg'
+  contacts:
+    name: '本居 小鈴'
+    email: 'librarian@suzunaan.org'
+  subsites:
+    - name: Git
+      link: git.suzunaan.org
+  subtitle: 'A ringing library.'
+  webbuttons:
+    - 2hu.gif
+    - nocookie.gif
+    - neovim.gif
+    - transnow2.gif
+    - bunbrowser.gif
 
 privacy:
   disqus:

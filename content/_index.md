@@ -18,7 +18,7 @@ We provide the following services:
  [The blog you are on now](https://suzunaan.org)
  {{% /service_item %}}
 
- {{% service_item status="offline" %}}
+ {{% service_item %}}
  [Git](https://git.suzunaan.org)
  {{% /service_item %}}
 

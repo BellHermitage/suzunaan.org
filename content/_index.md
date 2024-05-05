@@ -2,14 +2,14 @@
 title: Home
 ---
 
-# About
+## About
 
 Welcome to Suzunaan, an incubator for different projects that span between software, music analysis, translations and many others.
 The site is very much "Work In Progress".
 
 Contributors are welcome, but please first read the [guidelines](/contributing).
 
-# Links
+## Links
 
 We provide the following services:
 

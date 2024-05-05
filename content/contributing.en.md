@@ -4,12 +4,12 @@ date: 2023-10-16
 ---
 
 In this page you will find all the information needed to contribute to the project.
-First of all, it is needed to define some form of CoC to better express our stance regarding interpersonal relationships.
+First of all, we need to define some form of CoC to better express our stance on interpersonal relationships.
 
-# Code of Conduct
+## Code of Conduct
 
 
-When contributing with/on this platform or related ones, e.g. the GitHub repositories related to Suzunaan,
+When contributing with/on this platform or related ones, e.g. the git repositories related to Suzunaan,
 you accept the terms and conditions outlined in this document.
 
 You **shall**:
@@ -53,13 +53,13 @@ You **shall _not_**:
 Failure to respect the above rules will result in your current and future contributions to be rejected and, possibly, be
 banned from the community.
 
-# Philosophy
+## Philosophy
 
 Additionally, please **remember that**:
 
  1. **This community is pretty much left/anarchist-adjacent.**
 
-    While we do not *really* care about your politics, software is not inherently apolitical and some choices will
+    While we do not care about your politics, software is not inherently apolitical and some choices will
     inevitably reflect this.
     We *do not* have any problems with contributions coming from various points of the political spectrum,
     *provided you respect the rules above*.
@@ -74,7 +74,7 @@ Additionally, please **remember that**:
 
  3. **We do not accept venture capital or investments.**
 
-    Money is, for all intents and purposes, the root of all evil, especially VC money.
+    Money is the root of all evil, especially VC money.
     VCs do not care about stable returns but *big* returns in investments, leading to the aforementioned
     ["enshittification"](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) process.
 
@@ -83,15 +83,50 @@ Additionally, please **remember that**:
 
     If money is needed, then it must come from donations and/or crowdfunding.
 
-If the political stance of this community makes you uncomfortable, it is perfectly fine for all
-parties involved to not interact with eachother and save everyone's time.
+ 4. **We do not support ANY military.**
 
-On the contrary, if you think that these ideas are more in line with your personal philosophy, then great, welcome aboard!
+    Technology may be inherently [dual-use](https://en.wikipedia.org/wiki/Dual-use_technology).
+    While unfortunate, the project must make it as hard as possible to use any
+    resource for military purposes.
 
-# How to contribute
+    This also implies repelling any contracts, sponsorships and so on.
 
-If you want to contribute with code or assets, then you should head to the [Github organization](https://github.com/BellHermitage)
+    The main motivation behind rule is the [NixCon sponsorship drama](https://save-nix-together.org/#anduril-detsys-and-the-sponsorship-crisis).
+
+If the political stance of this community makes you uncomfortable, it's fine for all
+parties involved to not interact with each other and save everyone's time.
+
+Instead, if you think that these ideas are more in line with your personal philosophy, then great, welcome aboard!
+
+## How to contribute
+
+If you want to contribute with code or assets, then you should head to the [Forgejo instance](https://git.suzunaan.org/Suzunaan)
 where you will find all the repositories related to the project.
-We are in the process of opening a Gitea instance at [git.suzunaan.org](https://git.suzunaan.org), where other
-projects will take place.
-At this point in time, such subdomain does not exist.
+
+
+### Anonymous git submissions
+
+To contribute anonymously you still need a pseudo-anonymous account at
+[git.suzunaan.org](https://git.suzunaan.org), but you can commit your code
+using the special identity `anon <anon@suzunaan.org>`.
+While it doesn't have any meaning itself, it may be useful to decouple your
+contribution from any of your accounts.
+
+To do so, configure `git` for the repository you cloned before doing any work:
+
+```
+git config user.name anon
+git config user.email anon@suzunaan.org
+```
+
+In this configuration, your account at Suzunaan will show the following
+information:
+
+ - The pull requests you publicly opened, closed or commented on.
+ - The issues you publicly opened, closed or commented on.
+ - The repositories created under that account.
+
+Meanwhile the history of a git repository will list your contributions
+as `anon <anon@suzunaan.org>`, making it slightly harder to link the two identities.
+
+Unfortunately there aren't other simple ways to allow anon contributions.

@@ -12,6 +12,7 @@
       in rec {
         devShell = pkgs.mkShell {
           buildInputs = [
+            pkgs.rclone
             pkgs.hugo
             pkgs.dart-sass
             pkgs.nodejs

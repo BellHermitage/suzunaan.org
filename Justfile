@@ -2,5 +2,5 @@ serve:
     hugo serve -D
 
 build:
-    hugo -D
+    hugo
     npx pagefind -s public

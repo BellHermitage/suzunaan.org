@@ -1,3 +1,3 @@
 [submodule "themes/hugo-suzu"]
 	path = themes/hugo-suzu
-	url = ssh://git@git.suzunaan.org:2222/Suzunaan/hugo-suzu
+	url = https://git.suzunaan.org/Suzunaan/hugo-suzu

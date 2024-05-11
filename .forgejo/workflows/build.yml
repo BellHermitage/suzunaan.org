@@ -18,7 +18,7 @@ jobs:
       - run: ls -la public/
 
       - name: Setup SSH
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         run: |
           mkdir -p ~/.ssh
           ls -l ~/.ssh
@@ -27,6 +27,6 @@ jobs:
           ssh-keyscan -p 3420 -T 240 -H 'suzunaan.org' > ~/.ssh/known_hosts
 
       - run: nix develop --command scripts/deploy.sh
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         env:
           RCLONE_SFTP_KEY_FILE: ~/.ssh/id_ed25519

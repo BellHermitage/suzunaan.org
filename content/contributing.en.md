@@ -64,7 +64,11 @@ Additionally, please **remember that**:
     We *do not* have any problems with contributions coming from various points of the political spectrum,
     *provided you respect the rules above*.
 
- 2. **We do not want software to be subject to ["enshittification"](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys).**
+ 1. **We subscribe to [Yesterweb's manifesto](https://yesterweb.org).**
+
+    This whole experiment and its resulting community must remain indie and no-profit.
+
+ 1. **We do not want software to be subject to ["enshittification"](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys).**
 
     Software should only be open-source, possibly conflicting with commercial usages to discourage cloud re-selling
     (e.g. how AWS did with Elasticsearch).
@@ -72,7 +76,7 @@ Additionally, please **remember that**:
 
     Software should work for the user, not the contrary.
 
- 3. **We do not accept venture capital or investments.**
+ 1. **We do not accept venture capital or investments.**
 
     Money is the root of all evil, especially VC money.
     VCs do not care about stable returns but *big* returns in investments, leading to the aforementioned
@@ -83,7 +87,7 @@ Additionally, please **remember that**:
 
     If money is needed, then it must come from donations and/or crowdfunding.
 
- 4. **We do not support ANY military.**
+ 1. **We do not support ANY military.**
 
     Technology may be inherently [dual-use](https://en.wikipedia.org/wiki/Dual-use_technology).
     While unfortunate, the project must make it as hard as possible to use any
@@ -100,17 +104,35 @@ Instead, if you think that these ideas are more in line with your personal philo
 
 ## How to contribute
 
-If you want to contribute with code or assets, then you should head to the [Forgejo instance](https://git.suzunaan.org/Suzunaan)
-where you will find all the repositories related to the project.
+At the moment we accept the following contributions:
 
+ - **Code, assets, etc...**
+
+   Please head over to the [Forgejo instance](https://git.suzunaan.org/Suzunaan)
+   or keep reading below [[3.1](#anonymous-git-submissions)] for anonymous submissions.
+
+ - **Blog articles and their translations.**
+
+   See [[3.2](#blog-contributions)].
+
+ - **Infrastructure help.**
+
+   We can always host something new or upgrade our own infrastructure.
+   Shoot us at [Suzunaan/infra](https://git.suzunaan.org/Suzunaan/infra)
+   or [Suzunaan/rfcs](https://git.suzunaan.org/Suzunaan/rfcs).
 
 ### Anonymous git submissions
 
-To contribute anonymously you still need a pseudo-anonymous account at
-[git.suzunaan.org](https://git.suzunaan.org), but you can commit your code
-using the special identity `anon <anon@suzunaan.org>`.
-While it doesn't have any meaning itself, it may be useful to decouple your
-contribution from any of your accounts.
+To contribute code anonymously you can either open a pseudo-anonymous account at
+[git.suzunaan.org](https://git.suzunaan.org), or send an email to `contrib@suzunaan.org`,
+and then commit your code using the special identity `anon <anon@suzunaan.org>`.
+While the account doesn't have any meaning itself, it may be useful to decouple
+your contribution from any of your own accounts.
+
+Please note that when contributing anonymously, in any way, your commits __WILL__
+be under __heavy scrutiny__ and have an __high probability of rejection__.
+This is to ensure no actor (a-la Jia Tan) or [APT](https://en.wikipedia.org/wiki/Advanced_persistent_threat)
+plants a backdoor or vulnerability in our project.
 
 To do so, configure `git` for the repository you cloned before doing any work:
 
@@ -119,7 +141,7 @@ git config user.name anon
 git config user.email anon@suzunaan.org
 ```
 
-In this configuration, your account at Suzunaan will show the following
+In this configuration, your account at Suzunaan (if any) will show the following
 information:
 
  - The pull requests you publicly opened, closed or commented on.
@@ -128,5 +150,16 @@ information:
 
 Meanwhile the history of a git repository will list your contributions
 as `anon <anon@suzunaan.org>`, making it slightly harder to link the two identities.
+To use email instead, send your commits to `contrib@suzunaan.org` using `git send-email`.
 
-Unfortunately there aren't other simple ways to allow anon contributions.
+### Blog contributions
+
+You may want to talk about projects, politics, indie web, decentralization and so on
+without using your real name or hosting your own blog.
+Good news: you are in the right place.
+Either send us the Markdown via mail at `contrib@suzunaan.org` or send a Pull
+Request at [Suzunaan's repo](https://git.suzunaan.org/Suzunaan/suzunaan.org),
+specifying if the author name should remain anonymous or if you want to use
+a specific name.
+While we prefer psuedo-anonymous texts, we may allow you to link to your social
+pages.

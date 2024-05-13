@@ -1,6 +1,7 @@
 ---
 title: "彁 is genius and here's why"
 date: 2023-04-09
+draft: true
 ---
 
 During the New Year's Eve of 2019, an indie Japanese music group ("circle") known as 凋叶棕 (_diao ye zong_, "withered leaf") released an album simply titled "彁" at the 97th edition of Comic Market, and it kind of explored how we think about stories and creativity.

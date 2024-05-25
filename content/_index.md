@@ -2,8 +2,6 @@
 title: Home
 ---
 
-## About
-
 Welcome to Suzunaan, a WIP incubator for indie projects that span between software, music analysis, translations and more to come.
 We subscribe to the [Yesterweb manifesto](https://yesterweb.org), in fact our
 goals are to build a small community of folks interested in the
@@ -12,9 +10,7 @@ the tech giant's web.
 
 Contributors are welcome, but please first read the [guidelines](/contributing).
 
-## Links
-
-We provide the following services:
+We currently provide the following services:
 
 {{< unordered_list >}}
  {{% service_item %}}

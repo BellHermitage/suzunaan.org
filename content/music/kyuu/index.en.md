@@ -1,6 +1,9 @@
 ---
 title: "彁 is genius and here's why"
 date: 2023-04-09
+tags:
+  - diao ye zong
+  - doujin music
 draft: true
 ---
 

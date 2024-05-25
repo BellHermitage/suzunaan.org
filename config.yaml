@@ -38,6 +38,7 @@ languages:
 
 params:
   logo: '/logo.svg'
+  default_author: Suzunaan Contributors
   contacts:
     name: '本居 小鈴'
     email: 'librarian@suzunaan.org'
@@ -46,6 +47,7 @@ params:
       link: git.suzunaan.org
   subtitle: 'A ringing library.'
   webbuttons:
+    - suzunaan.png
     - 2hu.gif
     - nocookie.gif
     - neovim.gif

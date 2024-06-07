@@ -6,6 +6,11 @@ title: '鈴奈庵'
 theme: 'hugo-suzu'
 sectionPagesMenu: 'main'
 
+permalinks:
+  page:
+    posts: /blog/:year/:month/:slug
+    music: /music/:year/:month/:slug
+
 markup:
   tableOfContents:
     startLevel: 2
@@ -47,12 +52,23 @@ params:
       link: git.suzunaan.org
   subtitle: 'A ringing library.'
   webbuttons:
-    - suzunaan.png
-    - 2hu.gif
-    - nocookie.gif
-    - neovim.gif
-    - transnow2.gif
-    - bunbrowser.gif
+    - file: suzunaan.png
+      alt: Suzunaan.
+      link: https://suzunaan.org
+    - file: no-ai/NoAi_02.svg
+      alt: This website was made without using any Artificial Intelligence whatsoever.
+      page: no-ai
+    - file: 2hu.gif
+      alt: Touhou.
+    - file: nocookie.gif
+      alt: This website doesn't use cookies.
+    - file: neovim.gif
+      alt: This website was built with neovim.
+      link: https://neovim.io
+    - file: transnow2.gif
+      alt: Trans rights!
+    - file: bunbrowser.gif
+      alt: Bunny browser.
 
 privacy:
   disqus:

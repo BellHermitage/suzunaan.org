@@ -8,8 +8,9 @@ sectionPagesMenu: 'main'
 
 permalinks:
   page:
-    posts: /blog/:year/:month/:slug
+    posts: /posts/:year/:month/:slug
     music: /music/:year/:month/:slug
+
 
 markup:
   tableOfContents:
@@ -57,7 +58,7 @@ params:
       link: https://suzunaan.org
     - file: no-ai/NoAi_02.svg
       alt: This website was made without using any Artificial Intelligence whatsoever.
-      page: no-ai
+      page: /posts/no-ai
     - file: 2hu.gif
       alt: Touhou.
     - file: nocookie.gif

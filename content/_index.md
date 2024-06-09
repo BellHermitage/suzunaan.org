@@ -1,5 +1,4 @@
 ---
-<!-- title: szn -->
 description: |
     Suzunaan is an incubator for indie projects, focused on building an
     alternative to the tech giant's web.

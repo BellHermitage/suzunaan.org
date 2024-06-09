@@ -50,6 +50,16 @@ You **shall _not_**:
     While we do not like "corporateness" and we pretty much like fun and sillyness, we will not tolerate childish
     behaviour.
 
+  5. **Use any form of AI.**
+
+     AI should do the real chores like dishes, not mess with artists and creators.
+     This also goes for code.
+     You should contribute at your own leisure, hopefully
+     to make the world a better place using technology --- using AI goes against that.
+     If you're not having fun, what's the point?
+
+     See the [relevant post]({{< ref "no-ai" >}}) for more information.
+
 Failure to respect the above rules will result in your current and future contributions to be rejected and, possibly, be
 banned from the community.
 

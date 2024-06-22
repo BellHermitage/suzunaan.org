@@ -100,10 +100,10 @@ it may so happen that composing some sub-elements does not yield a proper
 which in turns causes the CSS to break.
 
 {{< sidenote >}}
-    This is a margin note, or "sidenote" in the code.
-    It either spans the whole paragraph or it stays in the right.
-    It should be possible to create a column in the left of the main content
-    to stick the sidenote to, but the grid layout alignment gets harder.
+  This is a margin note, or "sidenote" in the code.
+  It either spans the whole paragraph or it stays on the right.
+  It should be possible to create a column in the left of the main content
+  to stick the sidenote to, but the grid layout alignment gets harder.
 {{< /sidenote >}}
 
 The next hurdle is space-optimization:

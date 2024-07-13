@@ -1,0 +1,13 @@
+/* Current contributors */
+
+    Founder: anri
+    Since: 2016
+    SIGs: *
+    Github: andry-dev
+    Mastodon: andry@ioc.exchange
+
+/* Past contributors */
+
+    Translations: sbrillux
+    Since: 2021
+    Until: 2021

@@ -1,5 +1,5 @@
 serve:
-    hugo serve -D
+    hugo serve -D --verbose
 
 build:
     hugo

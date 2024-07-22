@@ -1,0 +1,55 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://suzunaan.org/infra.schema.json",
+    "title": "Infrastructure",
+    "description": "List of hosted services.",
+    "type": "object",
+    "properties": {
+        "services": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "description": "A single hosted service",
+                "properties": {
+                    "name": {
+                        "description": "The name of the hosted service.",
+                        "type": "string"
+                    },
+                    "domain": {
+                        "description": "The domain of the service.",
+                        "type": "string"
+                    },
+                    "whom": {
+                        "description": "Who has control over its hosting.",
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "description": "The name of the person behind it."
+                        },
+                        "minItems": 1,
+                        "uniqueItems": true
+                    },
+                    "sigs": {
+                        "description": "A list of SIGs of which the service belongs to.",
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "description": "The name of the SIG. e.g. sig-infra, sig-szn"
+                        },
+                        "minItems": 1,
+                        "uniqueItems": true
+                    }
+                },
+                "required": [
+                    "name",
+                    "domain",
+                    "whom",
+                    "sigs"
+                ]
+            }
+        },
+        "required": [
+            "services"
+        ]
+    }
+}

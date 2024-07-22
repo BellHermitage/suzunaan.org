@@ -29,11 +29,14 @@ outputFormats:
     name: ATOM
     baseName: "feed"
     mediaType: "application/atom+xml"
+  "schema.json":
+    mediaType: "application/schema+json"
 
-# Define a new ATOM media type
 mediaTypes:
   "application/atom+xml":
     suffixes: ["atom"]
+  "application/schema+json":
+    suffixes: ["schema.json"]
 
 languages:
   en:

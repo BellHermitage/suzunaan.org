@@ -71,7 +71,8 @@ You **shall _accept_** that:
     provided there are no other equal collaborators who may object.
     See the [off-boarding section](#off-boarding).
 
-    The admins will _never_ object to a move or removal of a sub-project.
+    The admins will _never_ object to a move or removal of a sub-project,
+    _unless_ part of the infrastructure or other projects heavily depend on it.
 
 Failure to respect the above rules will result in your current and future
 contributions to be rejected and, possibly, be banned from the community.
@@ -159,8 +160,8 @@ These are the current and planned SIGs:
 |  SIG   | Responsible for | Since | Where  |
 |-------------|----|---|---|
 |  szn   |  Defining the general philosophy of the project.   | - | [Matrix](matrix://suzunaan.org/sig-szn) |
-|  blog   |  Approving/rejecting contributions for this blog, changing the stylesheets and so on.   | TBD | [Forgejo](https://git.suzunaan.org/Suzunaan/suzunaan.org)  <br/> [Matrix](matrix://suzunaan.org/sig-blog) |
-|  infra   |  Managing [parts of] [the infrastructure](https://git.suzunaan.org/Suzunaan/infra). For example, the team behind it hosts the services used by the project.   | TBD | [Forgejo](https://git.suzunaan.org/Suzunaan/infra) <br/> [Matrix](matrix://suzunaan.org/sig-infra) |
+|  blog   |  Approving/rejecting contributions for this blog, changing the stylesheets and so on.   | TBD | [Forgejo](https://git.suzunaan.org/Suzunaan/suzunaan.org)  [Matrix](matrix://suzunaan.org/sig-blog) |
+|  infra   |  Managing [parts of] [the infrastructure](https://git.suzunaan.org/Suzunaan/infra). For example, the team behind it hosts the services used by the project.   | TBD | [Forgejo](https://git.suzunaan.org/Suzunaan/infra) [Matrix](matrix://suzunaan.org/sig-infra) |
 |  opsec   |  Managing the security of the project.   | TBD | [Matrix](matrix://suzunaan.org/sig-opsec) |
 |  matrix   |  Managing the Matrix server.   | TBD | [Matrix](matrix://suzunaan.org/sig-matrix) |
 

@@ -40,7 +40,7 @@ In the 20th century the Japanese Industrial Standards was in development to allo
 
 After looking at the title, the very next thing you come across is the cover art:
 
-{{< figure src="images/cover_art.jpg" alt="The cover art for the album" >}}
+{{< figure src="images/cover_art.jpg" width="500" alt="The cover art for the album" >}}
 
 In the image there is depicted [Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) sleeping while holding an yin-yang orb, with a stylized version of Gensokyo in the background with the title in red superimposed on everything else.
 The cover art has mostly red highlights with white-ish parts, which is a play on Reimu's color palette (the "red and white miko").
@@ -48,7 +48,7 @@ Such image carries a lot of symbolism, as we shall see later on, so keep it in m
 
 After the cover art, you open the jewel case and take a look at the CD:
 
-{{< figure src="images/cd.png" alt="A scan of the CD" >}}
+{{< figure src="images/cd.png" width="500" alt="A scan of the CD" >}}
 
 At first you notice just the transparent title over the bold red Gensokyo, but looking around the sides there's some text! This is something RD does a lot: almost every album has a "CD text" which includes a standard prelude and then something about it. This in particular reads:
 
@@ -280,7 +280,7 @@ Maybe it's a mix of all three?
 
 <!-- ### Bonus: Illustration -->
 
-{{< figure src="images/hocus_pocus.png" title="Illustration for Hocus Pocus" caption="The illustration shows Marisa smiling flying upside down towards the viewer. Around her there are cardboard-cut images of potions, cats, bats and other witchery." alt="Illustration for Marks of Sin" >}}
+{{< figure src="images/hocus_pocus.png" width="500" title="Illustration for Hocus Pocus" caption="The illustration shows Marisa smiling flying upside down towards the viewer. Around her there are cardboard-cut images of potions, cats, bats and other witchery." alt="Illustration for Marks of Sin" >}}
 
 
 ### Marks of Sin
@@ -461,7 +461,7 @@ After demonstrating her power, she got her very first sin: anger.
 
 <!-- ### Bonus: Illustration (NSFW-ish) -->
 
-{{< figure src="images/marks_of_sin.png" title="Illustration for Marks of Sin" caption="The illustration shows an artistic nude of Clownpiece wickedly smiling at the viewer. Her figure is super-imposed over the United States flag, which she holds with both her hands." alt="Illustration for Marks of Sin" >}}
+{{< figure src="images/marks_of_sin.png" width="500" title="Illustration for Marks of Sin" caption="The illustration shows an artistic nude of Clownpiece wickedly smiling at the viewer. Her figure is super-imposed over the United States flag, which she holds with both her hands." alt="Illustration for Marks of Sin" >}}
 
 ### trill_Moonshine
 

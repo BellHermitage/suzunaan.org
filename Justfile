@@ -1,5 +1,5 @@
 serve:
-    hugo serve -D --verbose
+    hugo serve -D --logLevel debug
 
 build:
     hugo

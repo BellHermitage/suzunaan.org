@@ -1,7 +1,8 @@
 ---
 title: "Making websites is annoying"
 date: 2024-05-20T09:57:19+02:00
-draft: true
+draft: false
+unfinished: true
 keywords:
   - html
   - css
@@ -66,6 +67,8 @@ instead of grid.
     title="Kyuu."
     caption="An old screenshot of an Italian article from the older blog. Suzunaan took inspiration from the design elements there. Sorry for the flashbang." >}}
 
+<!-- {{< iframe as-details="true" summary="The recovered webpage, for our Italian readers. Thank god it never saw the light of day: the writing really sucks." src="subpages/void.html.x" >}} -->
+
 The reasons for it being offline were due to maintenance:
 they didn't have the know-how to secure their own server and didn't want to use
 a cloud service. And so it set dormant.
@@ -99,11 +102,20 @@ it may so happen that composing some sub-elements does not yield a proper
 `article` &RightArrow; `section` &RightArrow; `[header, {content}]` hierarchy,
 which in turns causes the CSS to break.
 
-{{< sidenote >}}
+{{< sidenote title="Hi, I'm a sidenote!" aria-label="Example of a sidenote." >}}
   This is a margin note, or "sidenote" in the code.
-  It either spans the whole paragraph or it stays on the right.
   It should be possible to create a column in the left of the main content
-  to stick the sidenote to, but the grid layout alignment gets harder.
+  to stick the sidenote to, but the grid layout alignment gets harder, so it
+  sits there in the middle of the article.
+
+  [Roman](https://kizu.dev) applies margin notes by creating a global 3 column
+  grid and manually specifying the row-span of the margin notes.
+  That layout would be too inflexible for us, but it's a good general
+  implementation of a margin note with ToC.
+  Notice that we have the ToC always visible on the right as a
+  [sidebar](https://every-layout.dev/layouts/sidebar/).
+
+  The style is inspired by Piccalilli's FYI box.
 {{< /sidenote >}}
 
 The next hurdle is space-optimization:
@@ -118,10 +130,21 @@ what happens at lower screen sizes?
 Everything should collapse to a single row of content, but to collapse
 (or "wrap") we need to provide breakpoints and use flow layouts like
 flexbox or grid, so now we are dealing with grid's
-`repeat(fit-content, weird minmax incantation)`.
+`repeat(auto-fit, weird minmax incantation)`.
 Basically it's about juggling with browser support, readability, accessibility
 and maintainable CSS, which is not fun.
 
 The other problem is accessibility:
-almost every resource on HTML and CSS ignore ARIA and a11y, in fact we're not
-even sure when we should do `<li aria-role="menu">`.
+almost every resource on HTML and CSS ignore ARIA and a11y: it's not
+obvious at all why one would type `<ul role="list">`.
+Did you know that putting a `class` to a list style disables Voiceover on Safari?
+To get it back we need to specify the role of list again.
+
+{{< callout title="Hi, I'm a callout!" aria-label="Example of a callout." >}}
+  I'm not as reasonable as the sidenote, which is why my title is bigger and
+  bolder!
+
+  A callout (or "call to action") wants to get the user's attention to make
+  them do some action.
+  We use callouts for the Web Environment Integrity warning and such.
+{{< /callout >}}

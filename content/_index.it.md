@@ -1,15 +1,9 @@
 ---
-title: Home
 ---
-
-# Info
-
 Benvenuto/a su Suzunaan, un incubatore per diversi progetti che spannano tra software, analisi di musica, traduzioni e molti altri.
 Il sito è ancora in costruzione.
 
-# Links
-
-Sono forniti i seguenti servizi:
+Forniamo i seguenti servizi:
 
 {{< unordered_list >}}
  {{% service_item %}}

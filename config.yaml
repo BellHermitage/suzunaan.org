@@ -6,6 +6,9 @@ title: '鈴奈庵'
 theme: 'hugo-suzu'
 sectionPagesMenu: 'main'
 enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+hasCJKLanguage: true
 
 permalinks:
   page:

@@ -8,6 +8,11 @@ keywords:
     - artificial intelligence
     - gpt
 
+summary: Our stance on AI.
+
+categories:
+    - Development
+
 tags:
     - ai
 ---
@@ -32,3 +37,5 @@ and models, should pose some ethical questions.
 
 The next time you are waiting for Copilot's auto-completion, please,
 think about it a bit.
+
+{{< figure width=600 src="thinking.jpg" alt="A tweet and a quote reply. The author of the first tweet says that sometimes, when writing a prompt, they directly solve the problem without using Chat-GPT. The quote tweet makes fun of them by saying that they discovered 'thinking'."  >}}

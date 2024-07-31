@@ -1,9 +1,15 @@
 ---
 title: Contributor guidelines
 date: 2023-10-16
+tags:
+    - szn
 ---
 
-In this page you will find all the information needed to contribute to the project.
+In this page you will find all the information needed to contribute to the
+project.
+
+<!--more-->
+
 First of all, we need to define some form of CoC to better express our stance on interpersonal relationships.
 
 ## Code of Conduct

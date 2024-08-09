@@ -1,12 +1,17 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "SIG: Suzunaan"
 
 # The date on which to publish the post.
 # Normally the post will not be published before this date.
-date: {{ .Date }}
+date: 2024-08-01T14:27:23+02:00
 
 # The date on which the post will be removed.
 # expirydate: 
+
+# On which menus should we display the post:
+#   - "main" is the navbar on the top of the page.
+#   - "footer" is the footer.
+menus: []
 
 # If true don't publish the post.
 draft: true
@@ -15,30 +20,23 @@ draft: true
 # draft takes precedence.
 unfinished: false
 
-# Ignore the post from the homepage.
-ignore: false
-
-# Hide metadata in the post.
-hideMeta: false
-
 # The summary used in the post list.
-# summary: 
+summary: This page contains informations about `sig-szn`.
 
 # The categories for the post.
 # Will appear under /categories and in the homepage.
 categories:
     - Suzunaan
-    - Music Analysis
-    - Web
 
 # The tags for the post.
 # Will appear under /tags.
-tags:
-    - a tag
+tags: []
 
 # Keywords for Search Engines
 keywords:
-    - keyword1
+    - suzunaan
+
+ignore: true
 
 # Description used for Search Engines.
 # Can also be used for the summary.
@@ -50,9 +48,13 @@ description: |
 # author: Some author
 ---
 
-This is the start of the article.
-Please don't start with a section, it's poor writing.
+The __Suzunaan__ Special Interest Group (`sig-szn`) is a meta-SIG which defines
+the philosophy and direction of the whole project.
 
-## This is a section title.
+New projects that don't fall into the
+[contributing guidelines]({{< ref "contributing" >}}) must be manually approved
+by this SIG.
 
-This is the text for the section.
+## People
+
+As the founder, __anri__ is a member of `sig-szn`.

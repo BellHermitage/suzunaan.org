@@ -1,4 +1,4 @@
-/* Current contributors */
+/* Current regular contributors */
 
     Founder: anri
     Since: 2016
@@ -6,8 +6,21 @@
     Github: andry-dev
     Mastodon: andry@ioc.exchange
 
-/* Past contributors */
+/* Past regular contributors */
 
     Translations: sbrillux
-    Since: 2021
-    Until: 2021
+    In: 2021
+
+/* One-off contributions and notable mentions */
+
+    Design: chic_luke
+    Since: 2023
+    What: Debug accessibility (blindness) issues with layout, suggest colors, etc...
+
+    Design: purna232
+    In: 2024
+    What: Severely improved the pixel art version of the logo.
+
+/* Site */
+
+    Software: Hugo, pagefind, Nix, Forgejo Actions

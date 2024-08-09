@@ -1,8 +1,8 @@
 ---
 title: Contributor guidelines
 date: 2023-10-16
-tags:
-    - szn
+categories:
+    - Suzunaan
 ---
 
 In this page you will find all the information needed to contribute to the
@@ -161,6 +161,9 @@ join a SIG:
 you contribute and that's it, someone from a SIG will look at it and approve it
 or not.
 
+[Here]({{< ref "sigs" >}} "Page on Special Interest Groups") you can find
+more information on Special Interest Groups.
+
 These are the current and planned SIGs:
 
 |  SIG   | Responsible for | Since | Where  |
@@ -170,7 +173,6 @@ These are the current and planned SIGs:
 |  infra   |  Managing [parts of] [the infrastructure](https://git.suzunaan.org/Suzunaan/infra). For example, the team behind it hosts the services used by the project.   | TBD | [Forgejo](https://git.suzunaan.org/Suzunaan/infra) [Matrix](matrix://suzunaan.org/sig-infra) |
 |  opsec   |  Managing the security of the project.   | TBD | [Matrix](matrix://suzunaan.org/sig-opsec) |
 |  matrix   |  Managing the Matrix server.   | TBD | [Matrix](matrix://suzunaan.org/sig-matrix) |
-
 
 ### How to join a SIG
 

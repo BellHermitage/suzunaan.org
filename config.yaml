@@ -4,7 +4,6 @@ defaultContentLanguage: 'en'
 languageCode: 'en-us'
 title: '鈴奈庵'
 theme: 'hugo-suzu'
-sectionPagesMenu: 'main'
 enableRobotsTXT: true
 enableGitInfo: true
 enableEmoji: true
@@ -50,7 +49,9 @@ languages:
     weight: 2
 
 params:
-  logo: '/logo.svg'
+  logo:
+    filename: 'logo.svg'
+    pixelart: false
   default_author: Suzunaan Contributors
   contacts:
     name: '本居 小鈴'

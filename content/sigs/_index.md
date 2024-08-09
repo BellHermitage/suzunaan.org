@@ -1,9 +1,13 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "SIGs"
+menus:
+    - main
+    - footer
+weight: 2
 
 # The date on which to publish the post.
 # Normally the post will not be published before this date.
-date: {{ .Date }}
+date: 2024-08-01T14:26:15+02:00
 
 # The date on which the post will be removed.
 # expirydate: 
@@ -15,12 +19,6 @@ draft: true
 # draft takes precedence.
 unfinished: false
 
-# Ignore the post from the homepage.
-ignore: false
-
-# Hide metadata in the post.
-hideMeta: false
-
 # The summary used in the post list.
 # summary: 
 
@@ -28,31 +26,27 @@ hideMeta: false
 # Will appear under /categories and in the homepage.
 categories:
     - Suzunaan
-    - Music Analysis
-    - Web
 
 # The tags for the post.
 # Will appear under /tags.
-tags:
-    - a tag
+tags: []
 
 # Keywords for Search Engines
 keywords:
-    - keyword1
+    - suzunaan
+    - special interest groups
 
 # Description used for Search Engines.
 # Can also be used for the summary.
 description: |
-    An example post.
+    List of Suzunaan's Special Interest Groups.
 
 # The author of the post, used for Search Engines. Never shown in the post itself.
 # If not specified the default is "Suzunaan Contributors".
 # author: Some author
 ---
 
-This is the start of the article.
-Please don't start with a section, it's poor writing.
+This page lists all the Special Interest Groups associated with Suzunaan.
 
-## This is a section title.
-
-This is the text for the section.
+All the people involved, past and present, are listed in
+the [humans.txt](/humans.txt) file in this site.

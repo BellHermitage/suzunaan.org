@@ -1,5 +1,5 @@
 serve:
-    hugo serve -D --logLevel debug
+    hugo serve -D --disableFastRender --logLevel debug
 
 build:
     hugo

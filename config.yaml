@@ -52,14 +52,19 @@ params:
   logo:
     filename: 'logo.svg'
     pixelart: false
+  favicon:
+    filename: 'favicon.png'
+    pixelart: false
   default_author: Suzunaan Contributors
   contacts:
     name: '本居 小鈴'
     email: 'librarian@suzunaan.org'
+    github: https://github.com/BellHermitage
   subsites:
     - name: Git
       link: git.suzunaan.org
   subtitle: 'A ringing library.'
+  webmention: true
   webbuttons:
     - file: suzunaan.png
       alt: Suzunaan.

@@ -45,6 +45,24 @@ keywords:
 description: |
     An example post.
 
+# Syndications are websites where the post was cross-linked to.
+# This may include your own social network, HN, reddit, etc...
+syndications:
+    - name: "Hacker News (2016)"
+      link: https://news.ycombinator.com/someid
+
+    - name: "Hacker News (2019)"
+      link: https://news.ycombinator.com/someid
+
+    - name: "Hacker News (2024)"
+      link: https://news.ycombinator.com/someid
+
+    - name: "r/whatever"
+      link: https://reddit.com/r/whatever
+
+    - name: "Twitter"
+      link: https://twitter.com/someuser/postid
+
 # The author of the post, used for Search Engines. Never shown in the post itself.
 # If not specified the default is "Suzunaan Contributors".
 # author: Some author

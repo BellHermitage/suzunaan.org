@@ -26,7 +26,7 @@ Touhou is a series of doujin games, music CDs, mangas and even light novels abou
 With this innocent premise, you may be wondering: why care about an album about some games about saving the world?
 Well, it really goes in depth about our relationship with stories --- really _a lot_ in depth --- but before going over the album I have to make a really important point: to understand 彁 you need to know some cursory stuff about Touhou and Gensokyo, but to give a complete enough introduction to Touhou here will further complicate this blog post.
 If you played the games and have a general understanding of the story and the characters, then you're set! If not, I suggest you read [this blog post](https://magic.witchgirls.moe/2019/06/gay-girls-whom-danmaku.html) to understand more in depth what Touhou is about and its themes.
-I'll still be explaining the album and its meaning as we go over it --- but I'll assume that you know basic stuff about the serie.
+I'll still be explaining the album and its meaning as we go over it --- but I'll assume that you know basic stuff about the series.
 
 So, before going over the album, I _have_ to talk about the group that made it, at least a little bit.
 
@@ -47,7 +47,7 @@ In the 20th century the Japanese Industrial Standards was in development to allo
 
 After looking at the title, the very next thing you come across is the cover art:
 
-{{< figure src="images/cover_art.jpg" width="500" alt="The cover art for the album" >}}
+{{< figure src="images/cover_art.jpg" width="500" alt="The cover art for the album" loading="lazy" >}}
 
 In the image there is depicted [Reimu](https://en.touhouwiki.net/wiki/Reimu_Hakurei) sleeping while holding an yin-yang orb, with a stylized version of Gensokyo in the background with the title in red superimposed on everything else.
 The cover art has mostly red highlights with white-ish parts, which is a play on Reimu's color palette (the "red and white miko").
@@ -55,7 +55,7 @@ Such image carries a lot of symbolism, as we shall see later on, so keep it in m
 
 After the cover art, you open the jewel case and take a look at the CD:
 
-{{< figure src="images/cd.png" width="500" alt="A scan of the CD" >}}
+{{< figure src="images/cd.png" width="500" alt="A scan of the CD" loading="lazy" >}}
 
 At first you notice just the transparent title over the bold red Gensokyo, but looking around the sides there's some text! This is something RD does a lot: almost every album has a "CD text" which includes a standard prelude and then something about it. This in particular reads:
 
@@ -183,7 +183,7 @@ Whoever she's struggling with is getting tricked by Marisa, and in the end will 
 |----------|--------|---------|
 |お前は脆くも貧相で |omae wa moroku mo hinsou de |You are brittle and seedy-looking|
 |どうせ与するに値しない |douse kumisuru ni atai shinai |You're not worthy enough to side with anyone|
-|気づけ　端から敵しかいないと |kidzuke hashi kara teki shika inai to |Notice, from the very beginning, you were surrounded by enemies|
+|気づけ　端から敵しかいないと |kidzuke hash kara teki shika inai to |Notice, from the very beginning, you were surrounded by enemies|
 |そうしか生きられない |sou shika ikirarenai |And you always will be|
 |しかるにお前は賢しくて |shikaru ni omae wa sakashikute |On the other hand, you are rather intelligent|
 |そればかりがおまえの味方 |sore bakari ga omae no mikata |And that brain of yours is your one ally|
@@ -201,7 +201,7 @@ Again she goes on about describing herself: she may be alone but her intellect a
 | Original | Romaji | English | English Alt |
 |----------|--------|---------|-------------|
 |俯け　もっと　もっと深く |utsumuke motto motto fukaku |Now bow down deeper, even deeper|
-|その背に負う　十字の分だけ |sono se ni ou juuji no bun dake |Carry your part of the crucifix|
+|その背に負う　十字の分だけ |sono se ni ou juuji no bun take |Carry your part of the crucifix|
 |そうして全部　燃やすんだ |soushite zenbu moyasu nda |Afterwards, let everything burn|
 |ひとすじの火種として |hitosuji no ~~hidame~~ koi to shite |Like a single ~~live coal~~ romance|  With the spark of love to light the flame|
 |ホーカス・ポーカス |hookasu pookasu |Hocus Pocus|
@@ -287,7 +287,7 @@ Maybe it's a mix of all three?
 
 <!-- ### Bonus: Illustration -->
 
-{{< figure src="images/hocus_pocus.png" width="500" title="Illustration for Hocus Pocus" caption="The illustration shows Marisa smiling flying upside down towards the viewer. Around her there are cardboard-cut images of potions, cats, bats and other witchery." alt="Illustration for Marks of Sin" >}}
+{{< figure src="images/hocus_pocus.png" width="500" title="Illustration for Hocus Pocus" caption="The illustration shows Marisa smiling flying upside down towards the viewer. Around her there are cardboard-cut images of potions, cats, bats and other witchery." alt="Illustration for Marks of Sin"  loading="lazy" >}}
 
 
 ### Marks of Sin
@@ -296,7 +296,7 @@ We leave Marisa behind and finally go to the third track, sung by miko.
 In Marks of Sin the protagonist is [Clownpiece](https://en.touhouwiki.net/wiki/Clownpiece), a peculiar fairy from hell.
 Before going over the song I have to take a small detour and talk a little about the character design of Clownpiece because it's central to the song.
 
-Clownpiece first appears in the 15th installment of the mainline serie of games: [Legacy of Lunatic Kingdom](https://en.touhouwiki.net/wiki/Legacy_of_Lunatic_Kingdom).
+Clownpiece first appears in the 15th installment of the mainline series of games: [Legacy of Lunatic Kingdom](https://en.touhouwiki.net/wiki/Legacy_of_Lunatic_Kingdom).
 The plot of LoLK boils down to a divine spirit named [Junko](https://en.touhouwiki.net/wiki/Junko) that wants to invade the Lunar Capital on the Moon to vindicate her dead son. To do that she befriends a Goddess of Hell, [Hecatia](https://en.touhouwiki.net/wiki/Hecatia), which in turn presents to her her subordinate: Clownpiece. Junko "purifies" Clownpiece to make her stronger; after this ordeal she gains the power to make people insane.
 
 The hell fairy is represented as petite and childish ~~clown~~ wearing what's basically the United States flag, while she goes to the Moon to wreck havoc --- the irony of which should not escape you.
@@ -308,7 +308,7 @@ To be more specific the song is a metaphor that uses Clownpiece as a character.
 
 | Original | Romaji | English |
 |---|---|---|
-|さてこれに無色の妖精 |sate kore ni Kuraunpiisu |Now, here’s the ~~achromatic~~ fairy Clownpiece!|
+|さてこれに無色の妖精 |state kore ni Kuraunpiisu |Now, here’s the ~~achromatic~~ fairy Clownpiece!|
 |地獄の申し子の一匹は |jigoku no moushigo no hitori wa |A single Heaven-sent child of Hell!|
 |その小さな足を踏んで |sono chiisana ashi wo funde |Her little feet tread on, as she mutters|
 |ぽつりぽつりと呟く |potsuri potsuri to tsubuyaku |Silently, silently, so no one would hear|
@@ -347,7 +347,7 @@ I have to stress that this song takes place before, during and after the impurit
 |しかるにこの身には一欠けらの罪さえなく |shikaru ni kono mi ni wa hito kakera no tsumi sae naku |However, my body bears not even a single piece of sins!|
 |それが故にこの身は行くべきところも無い |sore ga yue ni kono mi wa yukubeki tokoro mo nai |And because of this, there’s no place for me as well|
 | |
-|ただそこにあるだけではいけなかったのか、と。 |tada soko ni aru dake de wa ikenakatta no ka, to. |“But just staying here forever is wrong, right?” I was thinking|
+|ただそこにあるだけではいけなかったのか、と。 |tada soko ni aru take de wa ikenakatta no ka, to. |“But just staying here forever is wrong, right?” I was thinking|
 |或いはそれがたった一つの罪か |arui wa sore ga tatta hitotsu no tsumi ka |Perhaps that is my one and only sin?|
 
 This is the first instance of Clownpiece speaking: she entertains the idea that evil people come up in hell due to their sins, but they are so wicked that they get sent back.

@@ -64,7 +64,8 @@ params:
     - name: Git
       link: git.suzunaan.org
   subtitle: 'A ringing library.'
-  webmention: true
+  webmention:
+    url: 'https://webmention.io/suzunaan.org/webmention'
   webbuttons:
     - file: suzunaan.png
       alt: Suzunaan.

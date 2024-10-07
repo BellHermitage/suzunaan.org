@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: docker
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@eef61447b9ff4aafe5dcd4e0bbf5d482be7e7871 # v4
         with:
           ssh-known-hosts: |
             [git.suzunaan.org]:2222 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDY5ua7bhIcKW3gR7etAvdcSheMmNxjWANIwpAOg/TbEVJzVW7EZjIZHiWkKoM5VYae2l2scXGobuBFCT7V2i5XD4QwsN7EHAbO3tFkXxQYTUxrXWDhReFW3V0bJbLtS+qqY5qXLtWUTqFj7MUV1l3NGtxanSMu4aaVvtg/hi5kRUkMMnmX0Xoe5SjkSrueyVqMv9vTmkcKrXRUv6O34UZD5dVbPjC+OBZ0VwE/2XZaMcvs1iGRFLM91mCHSlMwvqmeJ9FIrx207LSpAVQJ1+McpQLbBPcaB8MH7ltV1ZjVqo7kjJlFAOlWddjNPLRWjHWbjiynizSQexSLiOCixLp6ChkQyO1s1dzca09SluR9RaP2QejWeiHc6/TpI/rECN0vp2y+HZJaFtNkb0pqgGXUWgFG+Z7StKcYKAIG4zoNWAxHS0jnHdkWcy7KLHI9GzpPJ6Qx/Q1Xd1Eco7RGRtB8Occ3VldUnG3Xft6CiFyYOJfS+LvLyrFcZnBzjqlS8T9+GTzzRa0tUh7h4OiFnSiX0FqDbYk58eM63caZdJxS6DbL/UJkN8PSEqr1hntyvtO+EYsGscWl3VcgDuh8HoZG06LiL1/cayvHGPQbmf9fbapdkoIuJyJJt0xqSS5fgc4PdzIv1zduPjVhV7CxPpvO+qyZ0WQnojYOBKHjGydU8Q==
